@@ -1,0 +1,1 @@
+const e={key:"v-3c7aba63",path:"/research/pottery-research.html",title:"\u9676\u5668\u7814\u7A76",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u9676\u5668\u7814\u7A76"},excerpt:"",headers:[],git:{updatedTime:164395987e4,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:2}]},filePathRelative:"research/pottery-research.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-0d993c74",path:"/culture/majiayao.html",title:"\u99AC\u5BB6\u7AAF",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u99AC\u5BB6\u7AAF",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1644297008e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"culture/majiayao.md"};export{t as data};

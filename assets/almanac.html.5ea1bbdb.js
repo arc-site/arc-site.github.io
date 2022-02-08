@@ -1,0 +1,1 @@
+const t={key:"v-325e6e44",path:"/subject/almanac.html",title:"\u767C\u6398\u5E74\u8868",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u767C\u6398\u5E74\u8868",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"subject/almanac.md"};export{t as data};

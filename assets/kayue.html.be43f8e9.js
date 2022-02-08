@@ -1,0 +1,1 @@
+const t={key:"v-6ef1a2c0",path:"/culture/kayue.html",title:"\u5361\u7D04",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5361\u7D04",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1644297008e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"culture/kayue.md"};export{t as data};
