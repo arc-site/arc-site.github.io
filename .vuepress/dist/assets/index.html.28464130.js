@@ -1,0 +1,1 @@
+const t={key:"v-3692d104",path:"/docs/scholar/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642332058e3,contributors:[{name:"NGKINCHUNG",email:"nkc@vista.aero",commits:1}]},filePathRelative:"docs/scholar/README.md"};export{t as data};
