@@ -1,1 +1,0 @@
-const e={key:"v-55293538",path:"/research/jade-research.html",title:"\u7389\u5668\u7814\u7A76",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u7389\u5668\u7814\u7A76"},excerpt:"",headers:[],git:{updatedTime:164395987e4,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:2}]},filePathRelative:"research/jade-research.md"};export{e as data};

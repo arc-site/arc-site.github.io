@@ -58,6 +58,7 @@ module.exports = {
             '/subject/epigraphy/',
             '/subject/theory-and-method/',
             '/subject/archaeometry/',
+            '/subject/remote-sensing-in-archaeology/',
             '/subject/laboratory-archaeology/',
             '/subject/zooarchaeology/',
             '/subject/phytarchaeology/',
@@ -70,10 +71,10 @@ module.exports = {
           text: '數據庫',
           link: '/database/', 
         },
-        {
-          text: '簡介',
-          link: '/about/', 
-        },
+//        {
+//          text: '簡介',
+//          link: '/about/', 
+//        },
     ],
       sidebar: {
     }

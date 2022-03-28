@@ -1,1 +1,0 @@
-const t={key:"v-a978773c",path:"/report/",title:"",lang:"zh-Hant",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1643169155e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:2},{name:"NGKINCHUNG",email:"nkc@vista.aero",commits:1}]},filePathRelative:"report/README.md"};export{t as data};

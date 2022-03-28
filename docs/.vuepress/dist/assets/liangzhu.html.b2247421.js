@@ -1,0 +1,1 @@
+const t={key:"v-2fa6ec75",path:"/culture/liangzhu.html",title:"\u826F\u6E1A",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u826F\u6E1A",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1644573888e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"culture/liangzhu.md"};export{t as data};

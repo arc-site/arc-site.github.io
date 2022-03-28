@@ -1,1 +1,0 @@
-const t={key:"v-6a2323e3",path:"/culture/erlitou.html",title:"\u4E8C\u91CC\u982D",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u4E8C\u91CC\u982D",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1644297008e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"culture/erlitou.md"};export{t as data};
