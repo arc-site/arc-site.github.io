@@ -1,3 +1,4 @@
+const { sitemap } = require("vuepress-plugin-sitemap2");
 module.exports = {
     base: '/',
     lang: 'zh-Hant',
@@ -18,6 +19,10 @@ module.exports = {
       { target: '_blank', rel: 'nofollow noopener noreferrer' }
     },
     plugins: [
+      sitemap({
+        hostname: "https://arc-site.github.io/",
+        // your options
+      }),
       [
         '@vuepress/plugin-google-analytics',
         {
