@@ -46,7 +46,7 @@ module.exports = {
         {
           text: '總覽',
           children: [
-            '/overview/journal/', 
+            '/overview/article/', 
             '/overview/monograph/',
             '/catalogue/',
           ],
@@ -70,6 +70,12 @@ module.exports = {
             '/subject/ceramic-archaeology',
             '/subject/public-archaeology',
             '/subject/paleography',
+          ],
+        },
+        {
+          text: '文化遺產',
+          children: [
+            '/heritage/convention/',
           ],
         },
         {

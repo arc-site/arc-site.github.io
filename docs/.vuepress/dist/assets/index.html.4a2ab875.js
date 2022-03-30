@@ -1,0 +1,1 @@
+const t={key:"v-5c5027fe",path:"/overview/monograph/",title:"\u5C08\u8457",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5C08\u8457",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"overview/monograph/README.md"};export{t as data};
