@@ -1,0 +1,1 @@
+const e={key:"v-13fca428",path:"/overview/yearbook/",title:"\u5E74\u9452",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5E74\u9452",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"overview/yearbook/README.md"};export{e as data};

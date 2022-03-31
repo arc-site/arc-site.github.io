@@ -21,7 +21,6 @@ module.exports = {
     plugins: [
       sitemap({
         hostname: "https://arc-site.github.io/",
-        // your options
       }),
       [
         '@vuepress/plugin-google-analytics',
@@ -46,6 +45,7 @@ module.exports = {
         {
           text: '總覽',
           children: [
+            '/overview/yearbook/',
             '/overview/article/', 
             '/overview/monograph/',
             '/catalogue/',
