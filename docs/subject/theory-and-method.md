@@ -50,5 +50,7 @@ sidebar: auto
 ## 實驗室考古
 ## 公共考古
 ## 文物保護
+- 方瑞蓮、周志明：〈[港澳文物修復會議與保存技術考察心得報告](https://report.nat.gov.tw/ReportFront/PageSystem/reportFileDownload/C10304266/001)〉（文化部文化資產局，2014年11月25日）。
 ### 絲織品
+- 宛湄：〈[織品之收藏保存與展示技術](https://libknowledge.nmns.edu.tw/nmns/upload/quaterly/000000799/209000c/200010_57.pdf)〉，《博物館學季刊》2000年第14卷第4期，第57-87頁。
 - 薛雁：〈出土絲織品收藏環境與存放方式〉，載中國文物保護協會：《中國文物保護技術協會學術年會》，2001年。
