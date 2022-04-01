@@ -45,6 +45,7 @@ module.exports = {
         {
           text: '總覽',
           children: [
+            '/overview/news/',
             '/overview/yearbook/',
             '/overview/article/', 
             '/overview/monograph/',
