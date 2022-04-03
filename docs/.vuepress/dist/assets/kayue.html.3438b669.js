@@ -1,0 +1,1 @@
+const t={key:"v-71e1f33e",path:"/discovery/kayue.html",title:"\u5361\u7D04",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5361\u7D04",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"discovery/kayue.md"};export{t as data};

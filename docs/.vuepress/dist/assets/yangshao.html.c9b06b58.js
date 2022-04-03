@@ -1,1 +1,0 @@
-const t={key:"v-19336bdb",path:"/culture/yangshao.html",title:"\u4EF0\u97F6",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u4EF0\u97F6",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1644573888e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"culture/yangshao.md"};export{t as data};

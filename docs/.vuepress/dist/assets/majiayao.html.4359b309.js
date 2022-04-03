@@ -1,0 +1,1 @@
+const t={key:"v-164b4ef0",path:"/discovery/majiayao.html",title:"\u99AC\u5BB6\u7AAF",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u99AC\u5BB6\u7AAF",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"discovery/majiayao.md"};export{t as data};

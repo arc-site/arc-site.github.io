@@ -53,9 +53,9 @@ module.exports = {
           ],
         },
         {
-          text: '考古學文化',
+          text: '考古發現',
           children: [
-            '/culture/yinxu/', 
+            '/discovery/yinxu/', 
           ],
         },
         {
@@ -83,10 +83,6 @@ module.exports = {
           text: '數據庫',
           link: '/database/', 
         },
-//        {
-//          text: '簡介',
-//          link: '/about/', 
-//        },
     ],
       sidebar: {
     }
