@@ -1,0 +1,1 @@
+const t={key:"v-1afd0565",path:"/discovery/zhengzhou-shang-city.html",title:"\u912D\u5DDE\u5546\u57CE",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u912D\u5DDE\u5546\u57CE",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"discovery/zhengzhou-shang-city.md"};export{t as data};

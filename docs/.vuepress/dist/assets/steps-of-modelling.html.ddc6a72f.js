@@ -1,0 +1,1 @@
+const e={key:"v-0c7fd384",path:"/experience/steps-of-modelling.html",title:"",lang:"zh-Hant",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"experience/steps-of-modelling.md"};export{e as data};

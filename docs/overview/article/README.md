@@ -62,6 +62,7 @@ sidebar: auto
 ### *Arabian Archaeology and Epigraphy*
 ### *Archaeologia Polona*
 ### *Archaeological Review from Cambridge*
+### *[Archaeology](archaeology.md)*
 ### *Archaeology in Oceania*
 ### *Archaeology, Ethnology & Anthropology of Eurasia*
 ### *Archaeometry*

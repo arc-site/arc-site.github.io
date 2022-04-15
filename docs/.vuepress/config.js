@@ -19,6 +19,22 @@ module.exports = {
       { target: '_blank', rel: 'nofollow noopener noreferrer' }
     },
     plugins: [
+//      [
+//        '@vuepress/docsearch',
+//        {
+//          apiKey: '0e4caa707b97ee64eaeddd6c63306e11',
+//          indexName: 'archaeology',
+//          appId: 'VAF9Q446F5',
+//            '/': {
+//              placeholder: '搜索',
+//              translations: {
+//                button: {
+//                  buttonText: '搜索',
+//                },
+//              },
+//            },
+//        },
+//      ],
       sitemap({
         hostname: "https://arc-site.github.io/",
       }),
@@ -55,7 +71,7 @@ module.exports = {
         {
           text: '考古發現',
           children: [
-            '/discovery/yinxu/', 
+            '/discovery/yin-ruins/', 
           ],
         },
         {
@@ -64,6 +80,7 @@ module.exports = {
             '/subject/epigraphy/',
             '/subject/theory-and-method/',
             '/subject/archaeometry/',
+            '/subject/archaeometallurgy/',
             '/subject/remote-sensing-in-archaeology/',
             '/subject/laboratory-archaeology/',
             '/subject/zooarchaeology/',
