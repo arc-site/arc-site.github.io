@@ -1,1 +1,0 @@
-const e={key:"v-498421b6",path:"/overview/article/archaeology.html",title:"Archaeology",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"Archaeology",sidebar:"auto"},excerpt:"",headers:[{level:2,title:"1948 (Vol. 1)",slug:"_1948-vol-1",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"overview/article/archaeology.md"};export{e as data};

@@ -1,3 +1,2 @@
 Sitemap: https://arc-site.github.io/sitemap.xml
 User-agent: *
-Sitemap: https://arc-site.github.io/sitemap.xml

@@ -1,4 +1,3 @@
-const { sitemap } = require("vuepress-plugin-sitemap2");
 module.exports = {
     base: '/',
     lang: 'zh-Hant',
@@ -19,25 +18,6 @@ module.exports = {
       { target: '_blank', rel: 'nofollow noopener noreferrer' }
     },
     plugins: [
-//      [
-//        '@vuepress/docsearch',
-//        {
-//          apiKey: '0e4caa707b97ee64eaeddd6c63306e11',
-//          indexName: 'archaeology',
-//          appId: 'VAF9Q446F5',
-//            '/': {
-//              placeholder: '搜索',
-//              translations: {
-//                button: {
-//                  buttonText: '搜索',
-//                },
-//              },
-//            },
-//        },
-//      ],
-      sitemap({
-        hostname: "https://arc-site.github.io/",
-      }),
       [
         '@vuepress/plugin-google-analytics',
         {
@@ -71,6 +51,10 @@ module.exports = {
         {
           text: '考古發現',
           children: [
+            '/discovery/erlitou-site/',
+            '/discovery/zhengzhou-shang-city/',
+            '/discovery/yanshi-shang-city/',
+            '/discovery/huanbei-shang-city/',
             '/discovery/yin-ruins/', 
           ],
         },

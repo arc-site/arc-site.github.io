@@ -1,1 +1,0 @@
-const t={key:"v-28ddcd6c",path:"/subject/archaeometallurgy.html",title:"\u51B6\u91D1\u8003\u53E4",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u51B6\u91D1\u8003\u53E4",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"subject/archaeometallurgy.md"};export{t as data};

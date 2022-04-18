@@ -1,1 +1,0 @@
-const t={key:"v-5f56fcdf",path:"/discovery/yanshi-shang-city.html",title:"\u5043\u5E2B\u5546\u57CE",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5043\u5E2B\u5546\u57CE",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"discovery/yanshi-shang-city.md"};export{t as data};
