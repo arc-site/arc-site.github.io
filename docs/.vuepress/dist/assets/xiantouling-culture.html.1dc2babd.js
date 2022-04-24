@@ -1,0 +1,1 @@
+const t={key:"v-7d4e1a5e",path:"/discovery/xiantouling-culture.html",title:"\u54B8\u982D\u5DBA\u6587\u5316",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u54B8\u982D\u5DBA\u6587\u5316",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"discovery/xiantouling-culture.md"};export{t as data};

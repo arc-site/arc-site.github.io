@@ -21,7 +21,7 @@ module.exports = {
       [
         '@vuepress/plugin-google-analytics',
         {
-          id: 'G-3BT2HTNJK0',
+          id: 'G-PQXR54EQKR',
         },
       ],
       [
@@ -51,6 +51,8 @@ module.exports = {
         {
           text: '考古發現',
           children: [
+            '/diesovery/yangshao-culture/',
+            '/diesovery/xiantouling-culture/',
             '/discovery/erlitou-site/',
             '/discovery/zhengzhou-shang-city/',
             '/discovery/yanshi-shang-city/',

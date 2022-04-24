@@ -1,2 +1,4 @@
-Sitemap: https://arc-site.github.io/sitemap.xml
 User-agent: *
+Allow: /
+Disallow:
+Sitemap: https://arc-site.github.io/sitemap.xml
