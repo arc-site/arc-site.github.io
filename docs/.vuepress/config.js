@@ -1,4 +1,13 @@
+const { viteBundler } = require('@vuepress/bundler-vite')
+const { defaultTheme } = require('@vuepress/theme-default')
+const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
+const { searchPlugin } = require('@vuepress/plugin-search')
+
 module.exports = {
+  bundler: viteBundler({
+    viteOptions: {},
+    vuePluginOptions: {},
+  }),
     base: '/',
     lang: 'zh-Hant',
     title: '考古資料類編',
@@ -19,19 +28,17 @@ module.exports = {
     },
     plugins: [
       [
-        '@vuepress/plugin-google-analytics',
-        {
+        googleAnalyticsPlugin({
           id: 'G-PQXR54EQKR',
-        },
+        }),
       ],
       [
-        '@vuepress/plugin-search',
-        {
+        searchPlugin({
           placeholder: '搜索',
-        },
+        }),
       ],
     ],
-    themeConfig: {
+    theme: defaultTheme({
       darkMode: false,
       lastUpdated: true,
       lastUpdatedText: '更新',
@@ -51,8 +58,8 @@ module.exports = {
         {
           text: '考古發現',
           children: [
-            '/diesovery/yangshao-culture/',
-            '/diesovery/xiantouling-culture/',
+            '/discovery/yangshao-culture/',
+            '/discovery/xiantouling-culture/',
             '/discovery/erlitou-site/',
             '/discovery/zhengzhou-shang-city/',
             '/discovery/yanshi-shang-city/',
@@ -87,7 +94,5 @@ module.exports = {
           link: '/database/', 
         },
     ],
-      sidebar: {
-    }
-  }
+  }),
 }

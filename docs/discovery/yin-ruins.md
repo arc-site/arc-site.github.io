@@ -4,7 +4,7 @@ title: 殷墟遺址
 sidebar: auto
 ---
 # 殷墟遺址
-## 發掘簡報、報告
+## 簡報、報告
 > 資料依發表年份排序。
 ### 綜合
 1. 傅斯年：〈本所發掘殷虛之經過〉，載李濟總編輯：《安陽發掘報告（第二期）》，中央研究所歷史語言研究所，1930年，第387-404頁。
@@ -197,7 +197,7 @@ sidebar: auto
 5. 徐中舒：〈再論小屯與仰韶〉，載李濟總編輯：《安陽發掘報告（第三期）》，中央研究所歷史語言研究所，1931年，第523-557頁。
 6. 劉嶼霞：〈殷代冶銅術之研究〉，載李濟總編輯：《安陽發掘報告（第四期）》，中央研究所歷史語言研究所，1933年，第681-696頁。
 ### 專著
-## 報刊新聞
+## 報道
 1. 〈[殷墟古物之發掘問題由中央研究院與河南民族博物館洽商辦理](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%AE%B7%E5%A2%9F&p_r_p_-1078056564_c=QF757YsWv5%2Bx%2BFRfM7YCs%2F2IzoxPa4PY&_coverpage_WAR_mmisportalportlet_o=0&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.creator%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.contributor%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.subject%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+fulltext%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.description%3A%28%E6%AE%B7%E5%A2%9F%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort&_coverpage_WAR_mmisportalportlet_sort_order=asc)〉，《工商日報》，1929年12月24日，第3張第4版。
 2. 〈[殷墟發掘近訊　發現古物多種](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%AE%B7%E5%A2%9F&p_r_p_-1078056564_c=QF757YsWv59H%2FuxqfBwEJOkDhTHXdZWQ&_coverpage_WAR_mmisportalportlet_o=1&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.creator%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.contributor%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.subject%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+fulltext%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.description%3A%28%E6%AE%B7%E5%A2%9F%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華字日報》，1931年4月16日，第1張第2頁。
 3. 〈[發掘殷墟](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%AE%B7%E5%A2%9F&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFEMWMWwusxLI&_coverpage_WAR_mmisportalportlet_o=2&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.creator%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.contributor%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.subject%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+fulltext%3A%28%E6%AE%B7%E5%A2%9F%29%20OR+all_dc.description%3A%28%E6%AE%B7%E5%A2%9F%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商晚報》，1931年12月18日，第2版。
