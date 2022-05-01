@@ -11,7 +11,7 @@ module.exports = {
     base: '/',
     lang: 'zh-Hant',
     title: '考古資料類編',
-    description: '考古、歷史、人文、科技',
+    description: '實踐考古、發現歷史、應用科技、感知人文',
     head: [
       [
         "script",
