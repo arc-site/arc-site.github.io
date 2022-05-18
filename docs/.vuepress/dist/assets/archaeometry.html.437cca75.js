@@ -1,0 +1,1 @@
+const t={key:"v-d5e61e66",path:"/archaeology/archaeometry.html",title:"\u79D1\u6280\u8003\u53E4",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u79D1\u6280\u8003\u53E4",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"archaeology/archaeometry.md"};export{t as data};

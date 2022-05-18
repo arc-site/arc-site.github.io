@@ -1,6 +1,6 @@
 ---
 lang: zh-Hant
-title: 考古資料類編
+title: 科研資料類編
 tagline: 
 home: true
 heroImage: /fig/logo.svg

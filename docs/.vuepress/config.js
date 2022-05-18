@@ -2,7 +2,6 @@ const { viteBundler } = require('@vuepress/bundler-vite')
 const { defaultTheme } = require('@vuepress/theme-default')
 const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
 const { searchPlugin } = require('@vuepress/plugin-search')
-
 module.exports = {
   bundler: viteBundler({
     viteOptions: {},
@@ -10,7 +9,7 @@ module.exports = {
   }),
     base: '/',
     lang: 'zh-Hant',
-    title: '考古資料類編',
+    title: '科研資料類編',
     description: '實踐考古、發現歷史、應用科技、感知人文',
     head: [
       [
@@ -49,7 +48,7 @@ module.exports = {
           text: '總覽',
           children: [
             '/overview/news/',
-            '/overview/yearbook/',
+            '/archaeology/yearbook/',
             '/overview/article/', 
             '/overview/monograph/',
             '/catalogue/',
@@ -58,29 +57,29 @@ module.exports = {
         {
           text: '考古發現',
           children: [
-            '/discovery/yangshao-culture/',
-            '/discovery/xiantouling-culture/',
-            '/discovery/erlitou-site/',
-            '/discovery/zhengzhou-shang-city/',
-            '/discovery/yanshi-shang-city/',
-            '/discovery/huanbei-shang-city/',
-            '/discovery/yin-ruins/', 
+            '/archaeology/yangshao-culture/',
+            '/archaeology/xiantouling-culture/',
+            '/archaeology/erlitou-site/',
+            '/archaeology/zhengzhou-shang-city/',
+            '/archaeology/yanshi-shang-city/',
+            '/archaeology/huanbei-shang-city/',
+            '/archaeology/yin-ruins/', 
           ],
         },
         {
           text: '專題',
           children: [
-            '/subject/epigraphy/',
-            '/subject/theory-and-method/',
-            '/subject/archaeometry/',
-            '/subject/archaeometallurgy/',
-            '/subject/remote-sensing-in-archaeology/',
-            '/subject/laboratory-archaeology/',
-            '/subject/zooarchaeology/',
-            '/subject/phytarchaeology/',
-            '/subject/ceramic-archaeology',
-            '/subject/public-archaeology',
-            '/subject/paleography',
+            '/archaeology/epigraphy/',
+            '/archaeology/theory-and-method/',
+            '/archaeology/archaeometry/',
+            '/archaeology/archaeometallurgy/',
+            '/archaeology/remote-sensing-in-archaeology/',
+            '/archaeology/laboratory-archaeology/',
+            '/archaeology/zooarchaeology/',
+            '/archaeology/phytarchaeology/',
+            '/archaeology/ceramic-archaeology',
+            '/archaeology/public-archaeology',
+            '/archaeology/paleography',
           ],
         },
         {

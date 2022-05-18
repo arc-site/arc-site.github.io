@@ -1,0 +1,1 @@
+import{_ as e,o,c as a,a as t,b as c}from"./app.d233146b.js";const r={},s={id:"\u52D5\u7269\u8003\u53E4",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#\u52D5\u7269\u8003\u53E4","aria-hidden":"true"},"#",-1),n=c(" \u52D5\u7269\u8003\u53E4"),d=[_,n];function h(i,l){return o(),a("h1",s,d)}var m=e(r,[["render",h],["__file","zooarchaeology.html.vue"]]);export{m as default};

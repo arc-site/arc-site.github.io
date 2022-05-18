@@ -1,6 +1,7 @@
 ---
 lang: zh-Hant
 title: 簡介
+sidebar: false
 contributors: false
 lastUpdated: false
 ---

@@ -1,1 +1,0 @@
-const t={key:"v-325e6e44",path:"/subject/almanac.html",title:"\u767C\u6398\u5E74\u8868",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u767C\u6398\u5E74\u8868",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1644573888e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"subject/almanac.md"};export{t as data};

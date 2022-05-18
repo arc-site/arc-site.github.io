@@ -1,0 +1,1 @@
+const a={key:"v-fdc5437e",path:"/archaeology/majiayao-culture.html",title:"\u99AC\u5BB6\u7AAF",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u99AC\u5BB6\u7AAF",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"archaeology/majiayao-culture.md"};export{a as data};

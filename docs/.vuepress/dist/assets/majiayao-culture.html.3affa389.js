@@ -1,1 +1,0 @@
-const a={key:"v-aab93572",path:"/discovery/majiayao-culture.html",title:"\u99AC\u5BB6\u7AAF",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u99AC\u5BB6\u7AAF",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1650031067e3,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"discovery/majiayao-culture.md"};export{a as data};
