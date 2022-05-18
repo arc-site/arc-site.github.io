@@ -1,1 +1,0 @@
-const a={key:"v-68d6f76a",path:"/archaeology/laboratory-archaeology.html",title:"\u5BE6\u9A57\u5BA4\u8003\u53E4",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5BE6\u9A57\u5BA4\u8003\u53E4",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"archaeology/laboratory-archaeology.md"};export{a as data};

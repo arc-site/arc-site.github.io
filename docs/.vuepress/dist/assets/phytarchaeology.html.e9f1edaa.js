@@ -1,1 +1,0 @@
-const a={key:"v-af7da780",path:"/archaeology/phytarchaeology.html",title:"\u690D\u7269\u8003\u53E4",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u690D\u7269\u8003\u53E4",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"archaeology/phytarchaeology.md"};export{a as data};

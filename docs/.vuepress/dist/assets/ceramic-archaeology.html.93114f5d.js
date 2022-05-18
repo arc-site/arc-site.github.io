@@ -1,1 +1,0 @@
-const a={key:"v-11b7b284",path:"/archaeology/ceramic-archaeology.html",title:"\u9676\u74F7\u8003\u53E4",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u9676\u74F7\u8003\u53E4",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"archaeology/ceramic-archaeology.md"};export{a as data};

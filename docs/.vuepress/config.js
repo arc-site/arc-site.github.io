@@ -2,6 +2,7 @@ const { viteBundler } = require('@vuepress/bundler-vite')
 const { defaultTheme } = require('@vuepress/theme-default')
 const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
 const { searchPlugin } = require('@vuepress/plugin-search')
+const { sitemapPlugin } = require("vuepress-plugin-sitemap2");
 module.exports = {
   bundler: viteBundler({
     viteOptions: {},
@@ -31,6 +32,9 @@ module.exports = {
           id: 'G-PQXR54EQKR',
         }),
       ],
+      sitemapPlugin({
+        hostname: "https://citenote.github.io"
+      }),
       [
         searchPlugin({
           placeholder: '搜索',

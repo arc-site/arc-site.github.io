@@ -1,1 +1,0 @@
-const e={key:"v-ef0cfdfa",path:"/archaeology/experience/steps-of-modelling.html",title:"",lang:"zh-Hant",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"archaeology/experience/steps-of-modelling.md"};export{e as data};
