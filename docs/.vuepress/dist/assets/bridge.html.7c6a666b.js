@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a,a as o,b as r}from"./app.d97fbafd.js";const s={},c={id:"\u6A4B\u6A11",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#\u6A4B\u6A11","aria-hidden":"true"},"#",-1),d=r(" \u6A4B\u6A11"),n=[_,d];function i(h,f){return t(),a("h1",c,n)}var m=e(s,[["render",i],["__file","bridge.html.vue"]]);export{m as default};

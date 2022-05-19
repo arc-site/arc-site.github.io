@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as c,b as o}from"./app.5e450d2f.js";const r={},s={id:"\u5361\u7D04",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#\u5361\u7D04","aria-hidden":"true"},"#",-1),n=o(" \u5361\u7D04"),d=[_,n];function h(i,u){return t(),a("h1",s,d)}var f=e(r,[["render",h],["__file","kayue-culture.html.vue"]]);export{f as default};

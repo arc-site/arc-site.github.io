@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,b as s}from"./app.5e450d2f.js";const r={},c={id:"\u7AEF\u5348\u7BC0",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#\u7AEF\u5348\u7BC0","aria-hidden":"true"},"#",-1),n=s(" \u7AEF\u5348\u7BC0"),d=[_,n];function i(h,l){return t(),a("h1",c,d)}var m=e(r,[["render",i],["__file","dragon-boat-festival.html.vue"]]);export{m as default};

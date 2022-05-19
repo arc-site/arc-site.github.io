@@ -30,7 +30,7 @@ module.exports = {
     plugins: [
       [
         googleAnalyticsPlugin({
-          id: 'G-PQXR54EQKR',
+          id: 'G-63383XK452',
         }),
       ],
       seoPlugin({
@@ -66,7 +66,7 @@ module.exports = {
         {
           text: '文化遺產',
           children: [
-            '/heritage/convention/',
+            '/cultural-heritage/convention/',
           ],
         },
         {

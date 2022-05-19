@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,a,b as s}from"./app.d97fbafd.js";const c={},_={id:"\u96FB\u8A71",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#\u96FB\u8A71","aria-hidden":"true"},"#",-1),n=s(" \u96FB\u8A71"),d=[r,n];function h(i,l){return t(),o("h1",_,d)}var m=e(c,[["render",h],["__file","telephone.html.vue"]]);export{m as default};
