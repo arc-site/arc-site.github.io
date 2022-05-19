@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,a as o,b as r}from"./app.d97fbafd.js";const s={},c={id:"\u9435\u8DEF",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#\u9435\u8DEF","aria-hidden":"true"},"#",-1),n=r(" \u9435\u8DEF"),d=[_,n];function i(h,l){return a(),t("h1",c,d)}var m=e(s,[["render",i],["__file","railway.html.vue"]]);export{m as default};

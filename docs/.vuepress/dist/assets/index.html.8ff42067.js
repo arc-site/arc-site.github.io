@@ -1,1 +1,0 @@
-const e={key:"v-5c5027fe",path:"/overview/monograph/",title:"\u5C08\u8457",lang:"zh-Hant",frontmatter:{lang:"zh-Hant",title:"\u5C08\u8457",sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:164861939e4,contributors:[{name:"NGKINCHUNG",email:"archaeology.cn@outlook.com",commits:1}]},filePathRelative:"overview/monograph/README.md"};export{e as data};

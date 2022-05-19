@@ -2,7 +2,8 @@ const { viteBundler } = require('@vuepress/bundler-vite')
 const { defaultTheme } = require('@vuepress/theme-default')
 const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
 const { searchPlugin } = require('@vuepress/plugin-search')
-const { sitemapPlugin } = require("vuepress-plugin-sitemap2");
+const { sitemapPlugin } = require("vuepress-plugin-sitemap2")
+const { seoPlugin } = require("vuepress-plugin-seo2");
 module.exports = {
   bundler: viteBundler({
     viteOptions: {},
@@ -32,6 +33,9 @@ module.exports = {
           id: 'G-PQXR54EQKR',
         }),
       ],
+      seoPlugin({
+        hostname: "https://citenote.github.io"
+      }),
       sitemapPlugin({
         hostname: "https://citenote.github.io"
       }),
@@ -49,47 +53,26 @@ module.exports = {
       contributorsText: '編輯',
       navbar:[
         {
-          text: '總覽',
+          text: '考古學',
           children: [
-            '/overview/news/',
+            '/archaeology/site-and-culture/',
+            '/archaeology/news/',
             '/archaeology/yearbook/',
-            '/overview/article/', 
+            '/archaeology/article/', 
             '/overview/monograph/',
             '/catalogue/',
-          ],
-        },
-        {
-          text: '考古發現',
-          children: [
-            '/archaeology/yangshao-culture/',
-            '/archaeology/xiantouling-culture/',
-            '/archaeology/erlitou-site/',
-            '/archaeology/zhengzhou-shang-city/',
-            '/archaeology/yanshi-shang-city/',
-            '/archaeology/huanbei-shang-city/',
-            '/archaeology/yin-ruins/', 
-          ],
-        },
-        {
-          text: '專題',
-          children: [
-            '/archaeology/epigraphy/',
-            '/archaeology/theory-and-method/',
-            '/archaeology/archaeometry/',
-            '/archaeology/archaeometallurgy/',
-            '/archaeology/remote-sensing-in-archaeology/',
-            '/archaeology/laboratory-archaeology/',
-            '/archaeology/zooarchaeology/',
-            '/archaeology/phytarchaeology/',
-            '/archaeology/ceramic-archaeology',
-            '/archaeology/public-archaeology',
-            '/archaeology/paleography',
           ],
         },
         {
           text: '文化遺產',
           children: [
             '/heritage/convention/',
+          ],
+        },
+        {
+          text: '傳理學',
+          children: [
+            '/hknews/',
           ],
         },
         {

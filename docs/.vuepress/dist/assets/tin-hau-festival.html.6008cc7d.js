@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as s,b as o}from"./app.d97fbafd.js";const c={},_={id:"\u5929\u540E\u8A95",tabindex:"-1"},r=s("a",{class:"header-anchor",href:"#\u5929\u540E\u8A95","aria-hidden":"true"},"#",-1),n=o(" \u5929\u540E\u8A95"),i=[r,n];function d(h,l){return t(),a("h1",_,i)}var u=e(c,[["render",d],["__file","tin-hau-festival.html.vue"]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,b as s}from"./app.d97fbafd.js";const c={},_={id:"\u9F20\u75AB",tabindex:"-1"},r=o("a",{class:"header-anchor",href:"#\u9F20\u75AB","aria-hidden":"true"},"#",-1),n=s(" \u9F20\u75AB"),d=[r,n];function h(i,l){return t(),a("h1",_,d)}var u=e(c,[["render",h],["__file","plague.html.vue"]]);export{u as default};

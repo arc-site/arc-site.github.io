@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a,b as r}from"./app.d97fbafd.js";const s={},c={id:"\u65F1\u707D",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#\u65F1\u707D","aria-hidden":"true"},"#",-1),d=r(" \u65F1\u707D"),n=[_,d];function h(i,f){return t(),o("h1",c,n)}var u=e(s,[["render",h],["__file","drought.html.vue"]]);export{u as default};

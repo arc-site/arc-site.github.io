@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,a,b as o}from"./app.d97fbafd.js";const s={},c={id:"\u6E21\u8F2A",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#\u6E21\u8F2A","aria-hidden":"true"},"#",-1),n=o(" \u6E21\u8F2A"),d=[_,n];function h(i,f){return t(),r("h1",c,d)}var m=e(s,[["render",h],["__file","ferry.html.vue"]]);export{m as default};

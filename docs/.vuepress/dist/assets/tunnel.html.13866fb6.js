@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,b as s}from"./app.d97fbafd.js";const c={},n={id:"\u96A7\u9053",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#\u96A7\u9053","aria-hidden":"true"},"#",-1),r=s(" \u96A7\u9053"),d=[_,r];function h(i,l){return t(),a("h1",n,d)}var u=e(c,[["render",h],["__file","tunnel.html.vue"]]);export{u as default};
