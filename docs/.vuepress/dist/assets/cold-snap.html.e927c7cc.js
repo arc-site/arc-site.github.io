@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,b as c}from"./app.52c528cf.js";const s={},_={id:"\u5BD2\u6D41",tabindex:"-1"},r=o("a",{class:"header-anchor",href:"#\u5BD2\u6D41","aria-hidden":"true"},"#",-1),n=c(" \u5BD2\u6D41"),d=[r,n];function h(i,l){return t(),a("h1",_,d)}var m=e(s,[["render",h],["__file","cold-snap.html.vue"]]);export{m as default};

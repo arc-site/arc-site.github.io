@@ -8,5 +8,5 @@ actions:
   - text: 簡介
     link: /about.html
     type: secondary
-footer: Heritage Lab, SUSTech
+footer: NG, Kinchung @ Heritage Lab, SUSTech
 ---

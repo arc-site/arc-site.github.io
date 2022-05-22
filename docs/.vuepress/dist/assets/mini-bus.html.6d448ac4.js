@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a,b as o}from"./app.52c528cf.js";const c={},_={id:"\u5C0F\u5DF4",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#\u5C0F\u5DF4","aria-hidden":"true"},"#",-1),n=o(" \u5C0F\u5DF4"),i=[r,n];function d(h,f){return t(),s("h1",_,i)}var m=e(c,[["render",d],["__file","mini-bus.html.vue"]]);export{m as default};

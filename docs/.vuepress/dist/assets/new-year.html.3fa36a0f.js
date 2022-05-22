@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a,a as o,b as r}from"./app.5e450d2f.js";const s={},c={id:"\u5143\u65E6",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#\u5143\u65E6","aria-hidden":"true"},"#",-1),n=r(" \u5143\u65E6"),d=[_,n];function h(i,f){return t(),a("h1",c,d)}var m=e(s,[["render",h],["__file","new-year.html.vue"]]);export{m as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,b as r}from"./app.52c528cf.js";const s={},c={id:"\u7121\u7DDA\u96FB",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#\u7121\u7DDA\u96FB","aria-hidden":"true"},"#",-1),d=r(" \u7121\u7DDA\u96FB"),n=[_,d];function i(h,f){return t(),a("h1",c,n)}var m=e(s,[["render",i],["__file","radio.html.vue"]]);export{m as default};
