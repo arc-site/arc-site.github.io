@@ -1,0 +1,87 @@
+<template><div><h1 id="立法" tabindex="-1"><a class="header-anchor" href="#立法" aria-hidden="true">#</a> 立法</h1>
+<h2 id="立法機關" tabindex="-1"><a class="header-anchor" href="#立法機關" aria-hidden="true">#</a> 立法機關</h2>
+<h2 id="法例" tabindex="-1"><a class="header-anchor" href="#法例" aria-hidden="true">#</a> 法例</h2>
+<!--關鍵詞：條例-->
+<blockquote>
+<p>條例中文名稱暫根據報道原文收錄，隨後參考<a href="https://app.legco.gov.hk/bills/english/index.aspx" target="_blank" rel="noopener noreferrer">立法會法案資料庫<ExternalLinkIcon/></a>修正。</p>
+</blockquote>
+<h3 id="當押商條例" tabindex="-1"><a class="header-anchor" href="#當押商條例" aria-hidden="true">#</a> 當押商條例</h3>
+<h4 id="_1946年修訂" tabindex="-1"><a class="header-anchor" href="#_1946年修訂" aria-hidden="true">#</a> 1946年修訂</h4>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5t8bFK1GVvbU&amp;_coverpage_WAR_mmisportalportlet_o=1521&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">對改善當押條例問題　勞工團體有所條陳　工團代表今日謁華民司<ExternalLinkIcon/></a>〉，《工商日報》，1946年8月19日，第4頁。</li>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5vtbGFQitbXH&amp;_coverpage_WAR_mmisportalportlet_o=1531&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">立法局今日舉行會議　將通過修正押店條例　暫准押店加息及縮短押期<ExternalLinkIcon/></a>〉，《工商日報》，1946年10月17日，第3頁。</li>
+</ol>
+<h3 id="戰時出國條例" tabindex="-1"><a class="header-anchor" href="#戰時出國條例" aria-hidden="true">#</a> 戰時出國條例</h3>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5nz8Lcgfb0c3&amp;_coverpage_WAR_mmisportalportlet_o=1522&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">戰時出國條例　傳將撤銷<ExternalLinkIcon/></a>〉，《工商日報》，1946年9月5日，第4頁。</li>
+</ol>
+<h3 id="保護婦女條例" tabindex="-1"><a class="header-anchor" href="#保護婦女條例" aria-hidden="true">#</a> 保護婦女條例</h3>
+<h4 id="_1946年修訂-1" tabindex="-1"><a class="header-anchor" href="#_1946年修訂-1" aria-hidden="true">#</a> 1946年修訂</h4>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5mGEP%2Fh9DwkS&amp;_coverpage_WAR_mmisportalportlet_o=1524&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">草擬保護婦女條例　育女須登記<ExternalLinkIcon/></a>〉，《工商日報》，1946年9月12日，第3頁。</li>
+</ol>
+<h3 id="公共衞生-清潔-條例" tabindex="-1"><a class="header-anchor" href="#公共衞生-清潔-條例" aria-hidden="true">#</a> 公共衞生（清潔）條例</h3>
+<h4 id="_1946年修訂-2" tabindex="-1"><a class="header-anchor" href="#_1946年修訂-2" aria-hidden="true">#</a> 1946年修訂</h4>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5nIHCsbUioNS&amp;_coverpage_WAR_mmisportalportlet_o=1525&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">衛生局修正　洗衣店條例　下月一日會議討論<ExternalLinkIcon/></a>〉，《工商日報》，1946年9月29日，第3頁。</li>
+</ol>
+<h3 id="印花條例" tabindex="-1"><a class="header-anchor" href="#印花條例" aria-hidden="true">#</a> 印花條例</h3>
+<h4 id="_1946年修訂-3" tabindex="-1"><a class="header-anchor" href="#_1946年修訂-3" aria-hidden="true">#</a> 1946年修訂</h4>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5i7acDHWh05h&amp;_coverpage_WAR_mmisportalportlet_o=1527&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">港府修正印花條例　徵地產交易逾額稅　按新舊交易差額抽百分之十<ExternalLinkIcon/></a>〉，《工商日報》，1946年10月4日，第3頁。</li>
+</ol>
+<h3 id="限制影片條例" tabindex="-1"><a class="header-anchor" href="#限制影片條例" aria-hidden="true">#</a> 限制影片條例</h3>
+<h4 id="_1946年首讀" tabindex="-1"><a class="header-anchor" href="#_1946年首讀" aria-hidden="true">#</a> 1946年首讀</h4>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5i7acDHWh05h&amp;_coverpage_WAR_mmisportalportlet_o=1527&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">限制影片條例草案　立法局昨首讀通過　全體議員追悼失事飛機遇難者<ExternalLinkIcon/></a>〉，《工商日報》，1946年10月4日，第3頁。</li>
+</ol>
+<h3 id="水務條例" tabindex="-1"><a class="header-anchor" href="#水務條例" aria-hidden="true">#</a> 水務條例</h3>
+<h4 id="_1946年修訂-4" tabindex="-1"><a class="header-anchor" href="#_1946年修訂-4" aria-hidden="true">#</a> 1946年修訂</h4>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5hHCKjRZX8OG&amp;_coverpage_WAR_mmisportalportlet_o=1528&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">港府增加水費　本月十五日起實行　憲報公佈修正水務條例<ExternalLinkIcon/></a>〉，《工商日報》，1946年10月6日，第3頁。</li>
+</ol>
+<h3 id="工廠條例" tabindex="-1"><a class="header-anchor" href="#工廠條例" aria-hidden="true">#</a> 工廠條例</h3>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5hHCKjRZX8OG&amp;_coverpage_WAR_mmisportalportlet_o=1528&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">修正工廠條例　勞工處長管理工廠<ExternalLinkIcon/></a>〉，《工商日報》，1946年10月6日，第3頁。</li>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5lzMjXPHzowX&amp;_coverpage_WAR_mmisportalportlet_o=1529&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">立法局定期會議　討論兩項重要提案　修正工廠條例加強槍械管制<ExternalLinkIcon/></a>〉，《工商日報》，1946年10月9日，第3頁。（注：另見《<a href="#%E8%BB%8D%E6%A2%B0%E6%A2%9D%E4%BE%8B-%E6%9A%AB%E5%90%8D">軍械條例</a>》）</li>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5kOV%2BfI5o%2B2f&amp;_coverpage_WAR_mmisportalportlet_o=1532&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">立法局討論修正工廠條例　羅文錦提出反對　主張保留立法局對工廠法權能　港督接納意見該案留下次討論<ExternalLinkIcon/></a>〉，《工商日報》，1946年10月18日，第3頁。</li>
+</ol>
+<h3 id="軍械條例" tabindex="-1"><a class="header-anchor" href="#軍械條例" aria-hidden="true">#</a> 軍械條例</h3>
+<h4 id="_1946年修訂-5" tabindex="-1"><a class="header-anchor" href="#_1946年修訂-5" aria-hidden="true">#</a> 1946年修訂</h4>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5hHCKjRZX8OG&amp;_coverpage_WAR_mmisportalportlet_o=1528&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">港府修訂法例　嚴禁私藏槍械　所有槍械均須領取執照<ExternalLinkIcon/></a>〉，《工商日報》，1946年10月6日，第3頁。</li>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5qFQ4e74Y85b&amp;_coverpage_WAR_mmisportalportlet_o=1530&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">立法局昨日通過　修正槍械條例　律政司席上解釋　目的在戢滅匪風<ExternalLinkIcon/></a>〉，《工商日報》，1946年10月12日，第3頁。</li>
+</ol>
+<h3 id="戰時服務補助基金條例" tabindex="-1"><a class="header-anchor" href="#戰時服務補助基金條例" aria-hidden="true">#</a> 戰時服務補助基金條例</h3>
+<h4 id="_1946年修訂-6" tabindex="-1"><a class="header-anchor" href="#_1946年修訂-6" aria-hidden="true">#</a> 1946年修訂</h4>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5pomGXlrqVvz&amp;_coverpage_WAR_mmisportalportlet_o=1533&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">港戰期間服務傷亡人員　將受補撫䘏　死亡者之家屬亦獲教養　立法局明日討論補助基金條例<ExternalLinkIcon/></a>〉，《工商日報》，1946年10月30日，第4頁。</li>
+</ol>
+<h3 id="飲食稅條例" tabindex="-1"><a class="header-anchor" href="#飲食稅條例" aria-hidden="true">#</a> 飲食稅條例</h3>
+<h4 id="_1946年新立" tabindex="-1"><a class="header-anchor" href="#_1946年新立" aria-hidden="true">#</a> 1946年新立</h4>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%A2%9D%E4%BE%8B&amp;p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5vMFvYIsnPCw&amp;_coverpage_WAR_mmisportalportlet_o=1535&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.creator%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.contributor%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.subject%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+fulltext%3A%28%E6%A2%9D%E4%BE%8B%29%20OR+all_dc.description%3A%28%E6%A2%9D%E4%BE%8B%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">立法局今日會議　飲食稅將通過實施　法例規定該局有權修改章則　應徵稅之飲食物有詳細分析<ExternalLinkIcon/></a>〉，《工商日報》，1946年11月28日，第3頁。
+<ul>
+<li>飲食商會議未有結果</li>
+<li>飲食稅法例內容</li>
+<li>立法局有權修改</li>
+</ul>
+</li>
+</ol>
+<h3 id="華人法例" tabindex="-1"><a class="header-anchor" href="#華人法例" aria-hidden="true">#</a> 華人法例</h3>
+<ol>
+<li>〈修訂華人法例聲中　研究華人法例習俗委員會　七人委會擬具報告書摘要〉，《工商晚報》，1957年7月16日，第8頁。
+<ul>
+<li>婚姻</li>
+<li>離婚</li>
+<li>立嗣</li>
+<li>財產繼承及繼承法</li>
+<li>遺產之管理</li>
+<li>「永久住所」</li>
+<li>法例之編纂</li>
+<li>再徵求民意</li>
+<li>女紳士建議八點</li>
+</ul>
+</li>
+</ol>
+</div></template>

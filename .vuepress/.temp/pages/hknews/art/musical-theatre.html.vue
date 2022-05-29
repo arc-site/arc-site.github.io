@@ -1,0 +1,5 @@
+<template><div><h1 id="音樂劇" tabindex="-1"><a class="header-anchor" href="#音樂劇" aria-hidden="true">#</a> 音樂劇</h1>
+<ol>
+<li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%9F%B3%E6%A8%82%E5%8A%87&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%9F%B3%E6%A8%82%E5%8A%87%29%20OR+all_dc.creator%3A%28%E9%9F%B3%E6%A8%82%E5%8A%87%29%20OR+all_dc.contributor%3A%28%E9%9F%B3%E6%A8%82%E5%8A%87%29%20OR+all_dc.subject%3A%28%E9%9F%B3%E6%A8%82%E5%8A%87%29%20OR+fulltext%3A%28%E9%9F%B3%E6%A8%82%E5%8A%87%29%20OR+all_dc.description%3A%28%E9%9F%B3%E6%A8%82%E5%8A%87%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_field=score&amp;p_r_p_-1078056564_c=QF757YsWv58StS6UNkXpihRCxfida6tf&amp;_coverpage_WAR_mmisportalportlet_o=0&amp;_coverpage_WAR_mmisportalportlet_sort_order=desc" target="_blank" rel="noopener noreferrer">倫敦搖滾樂音樂劇　約瑟與神奇彩衣　月底大會堂上演<ExternalLinkIcon/></a>〉，《工商日報》，1983年9月7日，第7頁。</li>
+</ol>
+</div></template>

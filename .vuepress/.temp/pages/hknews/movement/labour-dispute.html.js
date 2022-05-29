@@ -1,0 +1,168 @@
+export const data = {
+  "key": "v-6c2e75ba",
+  "path": "/hknews/movement/labour-dispute.html",
+  "title": "工潮",
+  "lang": "zh-Hant",
+  "frontmatter": {
+    "lang": "zh-Hant",
+    "title": "工潮",
+    "sidebar": "auto",
+    "summary": "工潮\r\" 事件及報道按日期排序。\"\r\" \"\r\" 關鍵詞：工潮\" 1946年 在上海工人罷工 1. 〈港滬電訊　因滬罷工潮　今晨仍未通〉，《工商晚報》，1946年2月23日，第4頁。 2. 〈滬電訊　工潮解決〉，《工商晚報》，1946年2月28日，第1頁。 海軍船塢工潮 1. 〈海軍船塢工潮　廠方拖延答覆　工人不滿繼續怠工〉，《工商晚報》，1946年3月15日",
+    "head": [
+      [
+        "meta",
+        {
+          "property": "og:url",
+          "content": "https://citenote.github.io/hknews/movement/labour-dispute.html"
+        }
+      ],
+      [
+        "meta",
+        {
+          "property": "og:site_name",
+          "content": "資料類編"
+        }
+      ],
+      [
+        "meta",
+        {
+          "property": "og:title",
+          "content": "工潮"
+        }
+      ],
+      [
+        "meta",
+        {
+          "property": "og:type",
+          "content": "article"
+        }
+      ],
+      [
+        "meta",
+        {
+          "property": "og:locale",
+          "content": "zh-Hant"
+        }
+      ]
+    ]
+  },
+  "excerpt": "",
+  "headers": [
+    {
+      "level": 2,
+      "title": "1946年",
+      "slug": "_1946年",
+      "children": [
+        {
+          "level": 3,
+          "title": "在上海工人罷工",
+          "slug": "在上海工人罷工",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "海軍船塢工潮",
+          "slug": "海軍船塢工潮",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "煤氣公司工潮",
+          "slug": "煤氣公司工潮",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "電燈公司工潮",
+          "slug": "電燈公司工潮",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "九龍船塢工潮",
+          "slug": "九龍船塢工潮",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "中航公司地面工人罷工",
+          "slug": "中航公司地面工人罷工",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "消防隊工潮",
+          "slug": "消防隊工潮",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "過海小輪工潮",
+          "slug": "過海小輪工潮",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "中電工潮",
+          "slug": "中電工潮",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "巴士工潮",
+          "slug": "巴士工潮",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "郵務工潮",
+          "slug": "郵務工潮",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "起卸貨工勞資糾紛",
+          "slug": "起卸貨工勞資糾紛",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "1947年",
+      "slug": "_1947年",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "1948年",
+      "slug": "_1948年",
+      "children": [
+        {
+          "level": 3,
+          "title": "的士公司工潮",
+          "slug": "的士公司工潮",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "readingTime": {
+    "minutes": 18.99,
+    "words": 5696
+  },
+  "filePathRelative": "hknews/movement/labour-dispute.md"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

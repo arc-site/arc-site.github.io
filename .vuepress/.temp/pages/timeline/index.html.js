@@ -1,0 +1,60 @@
+export const data = {
+  "key": "v-01560935",
+  "path": "/timeline/",
+  "title": "時間軸",
+  "lang": "zh-TW",
+  "frontmatter": {
+    "title": "時間軸",
+    "blog": {
+      "type": "type",
+      "key": "timeline"
+    },
+    "layout": "Blog",
+    "summary": "",
+    "head": [
+      [
+        "meta",
+        {
+          "property": "og:url",
+          "content": "https://citenote.github.io/timeline/"
+        }
+      ],
+      [
+        "meta",
+        {
+          "property": "og:site_name",
+          "content": "研究資料類編"
+        }
+      ],
+      [
+        "meta",
+        {
+          "property": "og:title",
+          "content": "時間軸"
+        }
+      ],
+      [
+        "meta",
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      [
+        "meta",
+        {
+          "property": "og:locale",
+          "content": "zh-TW"
+        }
+      ]
+    ]
+  },
+  "excerpt": "",
+  "headers": [],
+  "git": {},
+  "readingTime": {
+    "minutes": 0,
+    "words": 0
+  },
+  "filePathRelative": null
+}

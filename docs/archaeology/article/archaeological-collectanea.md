@@ -1,6 +1,0 @@
----
-lang: zh-Hant
-title: 《考古學集刊》
-sidebar: auto
----
-# 《考古學集刊》

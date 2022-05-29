@@ -1,16 +1,17 @@
 {
-  "devDependencies": {
-    "vuepress": "^2.0.0-beta.45",
-    "vuepress-plugin-seo2": "^2.0.0-beta.63",
-    "vuepress-plugin-sitemap2": "^2.0.0-beta.62"
-  },
+  "name": "citenote",
+  "version": "1.0.0",
+  "description": "A Index Project of Academic References",
+  "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build .",
+    "docs:clean-dev": "vuepress dev . --clean-cache",
+    "docs:dev": "vuepress dev ."
   },
-  "dependencies": {
-    "@vuepress/plugin-google-analytics": "^2.0.0-beta.45",
-    "@vuepress/plugin-search": "^2.0.0-beta.45",
-    "@vuepress/theme-default": "^2.0.0-beta.45"
+  "devDependencies": {
+    "@vuepress/client": "^2.0.0-beta.46",
+    "vue": "^3.2.33",
+    "vuepress": "^2.0.0-beta.46",
+    "vuepress-theme-hope": "^2.0.0-beta.72"
   }
 }

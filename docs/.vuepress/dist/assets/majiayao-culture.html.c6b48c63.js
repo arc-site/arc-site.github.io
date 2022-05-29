@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t,a as o,b as c}from"./app.52c528cf.js";const r={},s={id:"\u99AC\u5BB6\u7AAF",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#\u99AC\u5BB6\u7AAF","aria-hidden":"true"},"#",-1),n=c(" \u99AC\u5BB6\u7AAF"),d=[_,n];function i(h,l){return a(),t("h1",s,d)}var f=e(r,[["render",i],["__file","majiayao-culture.html.vue"]]);export{f as default};

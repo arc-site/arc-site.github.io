@@ -1,0 +1,9 @@
+---
+lang: zh-TW
+title: 粵劇
+sidebar: auto
+---
+
+# 粵劇
+1. 曲辰：〈[談粵劇　有茶薇開盡之感](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E7%B2%B5%E5%8A%87&p_r_p_-1078056564_c=QF757YsWv5%2FH7zGe%2FKF%2BFPulRg0wvB%2Fd&_coverpage_WAR_mmisportalportlet_o=80&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E7%B2%B5%E5%8A%87%29%20OR+all_dc.creator%3A%28%E7%B2%B5%E5%8A%87%29%20OR+all_dc.contributor%3A%28%E7%B2%B5%E5%8A%87%29%20OR+all_dc.subject%3A%28%E7%B2%B5%E5%8A%87%29%20OR+fulltext%3A%28%E7%B2%B5%E5%8A%87%29%20OR+all_dc.description%3A%28%E7%B2%B5%E5%8A%87%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort&_coverpage_WAR_mmisportalportlet_sort_order=asc)〉，《工商晚報》，1946年2月20日，第2頁。
+2. 〈[黃泥坊衆開演粵劇](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E7%B2%B5%E5%8A%87&p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqom%2BdRKoWJrJ6&_coverpage_WAR_mmisportalportlet_o=81&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E7%B2%B5%E5%8A%87%29%20OR+all_dc.creator%3A%28%E7%B2%B5%E5%8A%87%29%20OR+all_dc.contributor%3A%28%E7%B2%B5%E5%8A%87%29%20OR+all_dc.subject%3A%28%E7%B2%B5%E5%8A%87%29%20OR+fulltext%3A%28%E7%B2%B5%E5%8A%87%29%20OR+all_dc.description%3A%28%E7%B2%B5%E5%8A%87%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《華僑日報》，1947年5月28日，第1張第3版。
