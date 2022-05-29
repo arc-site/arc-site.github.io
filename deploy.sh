@@ -1,7 +1,8 @@
 #!/usr/bin/env sh
 set -e
 npm run docs:build
-cd /.vuepress/dist
+cd 
+.vuepress/dist
 git init
 git add -A
 git commit -m 'contents updated'

@@ -46,6 +46,13 @@ export const data = {
       [
         "meta",
         {
+          "property": "og:updated_time",
+          "content": "2022-05-29T07:50:44.000Z"
+        }
+      ],
+      [
+        "meta",
+        {
           "property": "og:locale",
           "content": "zh-TW"
         }
@@ -55,6 +62,13 @@ export const data = {
         {
           "property": "article:tag",
           "content": "Markdown"
+        }
+      ],
+      [
+        "meta",
+        {
+          "property": "article:modified_time",
+          "content": "2022-05-29T07:50:44.000Z"
         }
       ]
     ]
@@ -166,9 +180,15 @@ export const data = {
     }
   ],
   "git": {
-    "createdTime": null,
-    "updatedTime": null,
-    "contributors": []
+    "createdTime": 1653810644000,
+    "updatedTime": 1653810644000,
+    "contributors": [
+      {
+        "name": "NGKINCHUNG",
+        "email": "archaeology.cn@outlook.com",
+        "commits": 1
+      }
+    ]
   },
   "readingTime": {
     "minutes": 2.98,

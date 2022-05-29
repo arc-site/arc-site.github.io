@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as c,c as r}from"./app.7efe2990.js";const o={};function a(n,t){return c(),r("div")}var m=e(o,[["render",a],["__file","academic-conference.html.vue"]]);export{m as default};

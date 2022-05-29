@@ -73,7 +73,7 @@ export const data = {
         "meta",
         {
           "property": "og:updated_time",
-          "content": "2022-05-18T04:24:14.000Z"
+          "content": "2022-05-29T07:50:44.000Z"
         }
       ],
       [
@@ -87,7 +87,7 @@ export const data = {
         "meta",
         {
           "property": "article:modified_time",
-          "content": "2022-05-18T04:24:14.000Z"
+          "content": "2022-05-29T07:50:44.000Z"
         }
       ]
     ]
@@ -96,12 +96,12 @@ export const data = {
   "headers": [],
   "git": {
     "createdTime": 1644573888000,
-    "updatedTime": 1652847854000,
+    "updatedTime": 1653810644000,
     "contributors": [
       {
         "name": "NGKINCHUNG",
         "email": "archaeology.cn@outlook.com",
-        "commits": 2
+        "commits": 3
       }
     ]
   },
