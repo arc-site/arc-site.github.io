@@ -2,10 +2,7 @@
 lang: zh-TW
 title: 第53章《古物及古蹟條例》
 description: 香港特別行政區法例
-sidebar: auto
 ---
-
-# 第53章《古物及古蹟條例》
 > 資料引自「[電子版香港法例](https://www.elegislation.gov.hk/)」
 
 Cap. 53 Antiquities and Monuments Ordinance

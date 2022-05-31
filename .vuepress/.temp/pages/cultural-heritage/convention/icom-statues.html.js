@@ -7,7 +7,6 @@ export const data = {
     "lang": "zh-TW",
     "title": "ICOM Statutes",
     "description": "博物館",
-    "sidebar": "auto",
     "head": [
       [
         "meta",

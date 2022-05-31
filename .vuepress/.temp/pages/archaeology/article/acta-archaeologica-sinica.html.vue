@@ -1,5 +1,4 @@
-<template><div><h1 id="《考古學報》" tabindex="-1"><a class="header-anchor" href="#《考古學報》" aria-hidden="true">#</a> 《考古學報》</h1>
-<h2 id="_1947年" tabindex="-1"><a class="header-anchor" href="#_1947年" aria-hidden="true">#</a> 1947年</h2>
+<template><div><h2 id="_1947年" tabindex="-1"><a class="header-anchor" href="#_1947年" aria-hidden="true">#</a> 1947年</h2>
 <ol>
 <li>石璋如：〈<strong>殷墟最近之重要發現附論小屯地層</strong>〉，《中國考古學報》1947年總第2冊，第1-81頁。</li>
 <li>李景聃：〈<strong>豫東商邱永城調查及造律臺黑孤堆曹橋三處小發掘</strong>〉，《中國考古學報》1947年總第2冊，第83-120+7-8頁。</li>

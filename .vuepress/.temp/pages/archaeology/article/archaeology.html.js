@@ -6,8 +6,7 @@ export const data = {
   "frontmatter": {
     "lang": "zh-TW",
     "title": "Archaeology",
-    "sidebar": "auto",
-    "summary": "Archaeology 1948 (Vol. 1)",
+    "summary": "1948 (Vol. 1)",
     "head": [
       [
         "meta",
@@ -82,7 +81,7 @@ export const data = {
   },
   "readingTime": {
     "minutes": 0.01,
-    "words": 4
+    "words": 3
   },
   "filePathRelative": "archaeology/article/archaeology.md"
 }

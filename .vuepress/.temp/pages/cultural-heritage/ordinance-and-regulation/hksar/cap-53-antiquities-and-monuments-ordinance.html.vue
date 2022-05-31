@@ -1,5 +1,4 @@
-<template><div><h1 id="第53章《古物及古蹟條例》" tabindex="-1"><a class="header-anchor" href="#第53章《古物及古蹟條例》" aria-hidden="true">#</a> 第53章《古物及古蹟條例》</h1>
-<blockquote>
+<template><div><blockquote>
 <p>資料引自「<a href="https://www.elegislation.gov.hk/" target="_blank" rel="noopener noreferrer">電子版香港法例<ExternalLinkIcon/></a>」</p>
 </blockquote>
 <p>Cap. 53 Antiquities and Monuments Ordinance</p>

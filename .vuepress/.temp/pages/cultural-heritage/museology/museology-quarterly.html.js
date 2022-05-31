@@ -6,8 +6,7 @@ export const data = {
   "frontmatter": {
     "lang": "zh-TW",
     "title": "《博物館學季刊》",
-    "sidebar": "auto",
-    "summary": "《博物館學季刊》",
+    "summary": "",
     "head": [
       [
         "meta",
@@ -74,8 +73,8 @@ export const data = {
     ]
   },
   "readingTime": {
-    "minutes": 0.02,
-    "words": 6
+    "minutes": 0,
+    "words": 0
   },
   "filePathRelative": "cultural-heritage/museology/museology-quarterly.md"
 }

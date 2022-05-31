@@ -134,6 +134,54 @@ export const data = {
         },
         {
           "level": 3,
+          "title": "英德市",
+          "slug": "英德市",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "普寧市",
+          "slug": "普寧市",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "連州市",
+          "slug": "連州市",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "鶴山市",
+          "slug": "鶴山市",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "汕頭市",
+          "slug": "汕頭市",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "台山市",
+          "slug": "台山市",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "清遠市",
+          "slug": "清遠市",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "增城市",
+          "slug": "增城市",
+          "children": []
+        },
+        {
+          "level": 3,
           "title": "虎門",
           "slug": "虎門",
           "children": []
@@ -299,6 +347,24 @@ export const data = {
           "title": "楊春縣",
           "slug": "楊春縣-1",
           "children": []
+        },
+        {
+          "level": 3,
+          "title": "仁化縣",
+          "slug": "仁化縣",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "廣寧縣",
+          "slug": "廣寧縣",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "區域調查",
+          "slug": "區域調查",
+          "children": []
         }
       ]
     }
@@ -315,8 +381,8 @@ export const data = {
     ]
   },
   "readingTime": {
-    "minutes": 19.37,
-    "words": 5811
+    "minutes": 24.12,
+    "words": 7236
   },
   "filePathRelative": "archaeology/yearbook/new-archaeological-find.md"
 }

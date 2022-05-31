@@ -6,7 +6,7 @@ export const data = {
   "frontmatter": {
     "lang": "zh-TW",
     "title": "憲報",
-    "summary": "香港政府憲報 香港特別行政區政府憲報",
+    "summary": "",
     "head": [
       [
         "meta",
@@ -39,55 +39,30 @@ export const data = {
       [
         "meta",
         {
-          "property": "og:updated_time",
-          "content": "2022-05-29T07:50:44.000Z"
-        }
-      ],
-      [
-        "meta",
-        {
           "property": "og:locale",
           "content": "zh-TW"
-        }
-      ],
-      [
-        "meta",
-        {
-          "property": "article:modified_time",
-          "content": "2022-05-29T07:50:44.000Z"
         }
       ]
     ]
   },
   "excerpt": "",
-  "headers": [
-    {
-      "level": 2,
-      "title": "香港政府憲報",
-      "slug": "香港政府憲報",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "香港特別行政區政府憲報",
-      "slug": "香港特別行政區政府憲報",
-      "children": []
-    }
-  ],
-  "git": {
-    "createdTime": 1653810644000,
-    "updatedTime": 1653810644000,
-    "contributors": [
-      {
-        "name": "NGKINCHUNG",
-        "email": "archaeology.cn@outlook.com",
-        "commits": 1
-      }
-    ]
-  },
+  "headers": [],
   "readingTime": {
-    "minutes": 0.06,
-    "words": 17
+    "minutes": 0,
+    "words": 0
   },
   "filePathRelative": "archive/hkgazette/README.md"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }

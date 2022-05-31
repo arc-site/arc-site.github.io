@@ -7,7 +7,6 @@ export const data = {
     "lang": "zh-TW",
     "title": "第53章《古物及古蹟條例》",
     "description": "香港特別行政區法例",
-    "sidebar": "auto",
     "head": [
       [
         "meta",
@@ -94,8 +93,8 @@ export const data = {
     ]
   },
   "readingTime": {
-    "minutes": 1.26,
-    "words": 378
+    "minutes": 1.23,
+    "words": 368
   },
   "filePathRelative": "cultural-heritage/ordinance-and-regulation/hksar/cap-53-antiquities-and-monuments-ordinance.md"
 }

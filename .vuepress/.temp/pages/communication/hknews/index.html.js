@@ -40,22 +40,8 @@ export const data = {
       [
         "meta",
         {
-          "property": "og:updated_time",
-          "content": "2022-05-29T07:50:44.000Z"
-        }
-      ],
-      [
-        "meta",
-        {
           "property": "og:locale",
           "content": "zh-TW"
-        }
-      ],
-      [
-        "meta",
-        {
-          "property": "article:modified_time",
-          "content": "2022-05-29T07:50:44.000Z"
         }
       ]
     ]
@@ -69,20 +55,22 @@ export const data = {
       "children": []
     }
   ],
-  "git": {
-    "createdTime": 1653810644000,
-    "updatedTime": 1653810644000,
-    "contributors": [
-      {
-        "name": "NGKINCHUNG",
-        "email": "archaeology.cn@outlook.com",
-        "commits": 1
-      }
-    ]
-  },
   "readingTime": {
     "minutes": 0.04,
     "words": 11
   },
   "filePathRelative": "communication/hknews/README.md"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }

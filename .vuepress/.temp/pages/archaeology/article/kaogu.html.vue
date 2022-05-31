@@ -1,5 +1,4 @@
-<template><div><h1 id="《考古》" tabindex="-1"><a class="header-anchor" href="#《考古》" aria-hidden="true">#</a> 《考古》</h1>
-<h2 id="_1934年" tabindex="-1"><a class="header-anchor" href="#_1934年" aria-hidden="true">#</a> 1934年</h2>
+<template><div><h2 id="_1934年" tabindex="-1"><a class="header-anchor" href="#_1934年" aria-hidden="true">#</a> 1934年</h2>
 <ol>
 <li>〈<strong>考古學社簡章</strong>〉，《考古》1934年1期，第1-2頁。</li>
 <li>邵子風：〈<strong>考古學社緣起</strong>〉，《考古》1934年1期，第3-4頁。</li>

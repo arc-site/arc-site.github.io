@@ -3,8 +3,8 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar([
   "/slide",
   {
-    text: "考古學",
-    icon: "kaoguxue",
+    text: "考古",
+    icon: "guyizhi",
     prefix: "/archaeology/",
     link: "/archaeology/",
     children: "structure",

@@ -3,28 +3,24 @@ import {
   init_define_CODE_COPY_LOCALES,
   init_define_CODE_COPY_OPIONS,
   init_define_CODE_DEMO_OPTIONS,
-  init_define_COMMENT_OPTIONS,
   init_define_EXTERNAL_LINK_ICON_LOCALES,
   init_define_MERMAID_OPTIONS,
   init_define_PHOTO_SWIPE_LOCALES,
   init_define_PHOTO_SWIPE_OPTIONS,
   init_define_READING_TIME_LOCALES,
-  init_define_REVEAL_CONFIG,
-  init_define_WALINE_LOCALES
-} from "./chunk-SJEGKTWB.js";
+  init_define_REVEAL_CONFIG
+} from "./chunk-75WZJXTL.js";
 
 // dep:ts-debounce
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPIONS();
 init_define_CODE_DEMO_OPTIONS();
-init_define_COMMENT_OPTIONS();
 init_define_MERMAID_OPTIONS();
 init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
-init_define_WALINE_LOCALES();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 
 // node_modules/ts-debounce/dist/src/index.esm.js
@@ -32,13 +28,11 @@ init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPIONS();
 init_define_CODE_DEMO_OPTIONS();
-init_define_COMMENT_OPTIONS();
 init_define_MERMAID_OPTIONS();
 init_define_PHOTO_SWIPE_LOCALES();
 init_define_PHOTO_SWIPE_OPTIONS();
 init_define_READING_TIME_LOCALES();
 init_define_REVEAL_CONFIG();
-init_define_WALINE_LOCALES();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 function r(r2, e, n) {
   var i, t, o;

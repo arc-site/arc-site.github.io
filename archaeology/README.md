@@ -1,4 +1,4 @@
 ---
 lang: zh-TW
-title: 考古學
+title: 考古
 ---

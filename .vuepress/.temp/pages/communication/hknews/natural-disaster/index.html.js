@@ -6,7 +6,6 @@ export const data = {
   "frontmatter": {
     "lang": "zh-TW",
     "title": "自然災害",
-    "sidebar": "auto",
     "summary": "熱帶氣旋 雨災 旱災 熱浪 寒流 龍捲風 地震",
     "head": [
       [

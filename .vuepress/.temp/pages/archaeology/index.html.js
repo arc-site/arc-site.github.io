@@ -1,11 +1,11 @@
 export const data = {
   "key": "v-0ed39efe",
   "path": "/archaeology/",
-  "title": "考古學",
+  "title": "考古",
   "lang": "zh-TW",
   "frontmatter": {
     "lang": "zh-TW",
-    "title": "考古學",
+    "title": "考古",
     "summary": "",
     "head": [
       [
@@ -26,7 +26,7 @@ export const data = {
         "meta",
         {
           "property": "og:title",
-          "content": "考古學"
+          "content": "考古"
         }
       ],
       [

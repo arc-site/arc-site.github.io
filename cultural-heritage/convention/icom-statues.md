@@ -2,9 +2,7 @@
 lang: zh-TW
 title: ICOM Statutes
 description: 博物館
-sidebar: auto
 ---
-
 # International Council of Museums (ICOM) - Statutes
 >
 > [原文](https://icommuseum/wp-content/uploads/2018/07/2017_ICOM_Statutes_ENpdf)摘自ICOM。

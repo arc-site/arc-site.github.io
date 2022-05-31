@@ -1,5 +1,4 @@
-<template><div><h1 id="雨災" tabindex="-1"><a class="header-anchor" href="#雨災" aria-hidden="true">#</a> 雨災</h1>
-<blockquote>
+<template><div><blockquote>
 <p>關鍵詞：水浸</p>
 </blockquote>
 <ul>

@@ -1,43 +1,13 @@
 export const themeData = {
   "blog": {
-    "description": "一个前端开发者",
-    "intro": "/intro.html",
-    "medias": {
-      "Baidu": "https://example.com",
-      "Bitbucket": "https://example.com",
-      "Dingding": "https://example.com",
-      "Discord": "https://example.com",
-      "Dribbble": "https://example.com",
-      "Email": "https://example.com",
-      "Evernote": "https://example.com",
-      "Facebook": "https://example.com",
-      "Flipboard": "https://example.com",
-      "Gitee": "https://example.com",
-      "GitHub": "https://example.com",
-      "Gitlab": "https://example.com",
-      "Gmail": "https://example.com",
-      "Instagram": "https://example.com",
-      "Lines": "https://example.com",
-      "Linkedin": "https://example.com",
-      "Pinterest": "https://example.com",
-      "Pocket": "https://example.com",
-      "QQ": "https://example.com",
-      "Qzone": "https://example.com",
-      "Reddit": "https://example.com",
-      "Rss": "https://example.com",
-      "Steam": "https://example.com",
-      "Twitter": "https://example.com",
-      "Wechat": "https://example.com",
-      "Weibo": "https://example.com",
-      "Whatsapp": "https://example.com",
-      "Youtube": "https://example.com",
-      "Zhihu": "https://example.com"
-    }
+    "description": "考古的",
+    "intro": "",
+    "medias": {}
   },
   "encrypt": {
     "config": {
       "/guide/encrypt.html": [
-        "$2a$10$UVXbb9d5q8wvtHOeZzZAZesDPYf7DCHogat5YWpxEuWUl9aRNtm2K"
+        "$2a$10$JYQQzZUN/6Ok.UG.QeXO0uEklYsQgowFq6AGS3vM2wOe.nHq4YxoG"
       ]
     }
   },
@@ -119,8 +89,8 @@ export const themeData = {
       "sidebar": [
         "/slide",
         {
-          "text": "考古學",
-          "icon": "kaoguxue",
+          "text": "考古",
+          "icon": "guyizhi",
           "prefix": "/archaeology/",
           "link": "/archaeology/",
           "children": "structure"
@@ -158,65 +128,24 @@ export const themeData = {
       "docsDir": "demo/src",
       "navbar": [
         {
-          "text": "使用指南",
-          "icon": "creative",
-          "link": "/guide/"
+          "text": "考古",
+          "icon": "",
+          "link": "/archaeology/"
         },
         {
-          "text": "博文",
-          "icon": "edit",
-          "prefix": "/posts/",
-          "children": [
-            {
-              "text": "文章 1-4",
-              "icon": "edit",
-              "prefix": "article/",
-              "children": [
-                {
-                  "text": "文章 1",
-                  "icon": "edit",
-                  "link": "article1"
-                },
-                {
-                  "text": "文章 2",
-                  "icon": "edit",
-                  "link": "article2"
-                },
-                "article3",
-                "article4"
-              ]
-            },
-            {
-              "text": "文章 5-12",
-              "icon": "edit",
-              "children": [
-                {
-                  "text": "文章 5",
-                  "icon": "edit",
-                  "link": "article/article5"
-                },
-                {
-                  "text": "文章 6",
-                  "icon": "edit",
-                  "link": "article/article6"
-                },
-                "article/article7",
-                "article/article8"
-              ]
-            },
-            {
-              "text": "文章 9",
-              "icon": "edit",
-              "link": "article9"
-            },
-            {
-              "text": "文章 10",
-              "icon": "edit",
-              "link": "article10"
-            },
-            "article11",
-            "article12"
-          ]
+          "text": "文化遺產",
+          "icon": "",
+          "link": "/cultural-heritage/"
+        },
+        {
+          "text": "檔案",
+          "icon": "",
+          "link": "/archive/"
+        },
+        {
+          "text": "傳理",
+          "icon": "",
+          "link": "/communication/"
         }
       ],
       "footer": "",

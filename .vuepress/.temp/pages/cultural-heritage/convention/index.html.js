@@ -6,8 +6,7 @@ export const data = {
   "frontmatter": {
     "lang": "zh-TW",
     "title": "公約與法規",
-    "sidebar": "auto",
-    "summary": "公約與法規 公約、倡議\r\" 資料依簽訂年份排序\" 綜合\r1904 The Preservation and Restoration of Architectural Monuments; \r記念建造物の保存と修復; \r1931 關於歷史性紀念物修復的雅典憲章; \rThe Athens Charter for the Restoration of Histor",
+    "summary": "公約、倡議\r\" 資料依簽訂年份排序\" 綜合\r1904 The Preservation and Restoration of Architectural Monuments; \r記念建造物の保存と修復; \r1931 關於歷史性紀念物修復的雅典憲章; \rThe Athens Charter for the Restoration of Historic Mon",
     "head": [
       [
         "meta",
@@ -143,8 +142,8 @@ export const data = {
     ]
   },
   "readingTime": {
-    "minutes": 4.1,
-    "words": 1229
+    "minutes": 4.08,
+    "words": 1224
   },
   "filePathRelative": "cultural-heritage/convention/README.md"
 }

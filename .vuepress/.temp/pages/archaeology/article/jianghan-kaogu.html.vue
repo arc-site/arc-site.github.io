@@ -1,5 +1,4 @@
-<template><div><h1 id="《江漢考古》" tabindex="-1"><a class="header-anchor" href="#《江漢考古》" aria-hidden="true">#</a> 《江漢考古》</h1>
-<h2 id="_1980年" tabindex="-1"><a class="header-anchor" href="#_1980年" aria-hidden="true">#</a> 1980年</h2>
+<template><div><h2 id="_1980年" tabindex="-1"><a class="header-anchor" href="#_1980年" aria-hidden="true">#</a> 1980年</h2>
 <h3 id="第1期" tabindex="-1"><a class="header-anchor" href="#第1期" aria-hidden="true">#</a> 第1期</h3>
 <ol>
 <li>唐長孺：〈<strong>發刊詞</strong>〉，《江漢考古》1980年1期，第1-2頁。</li>

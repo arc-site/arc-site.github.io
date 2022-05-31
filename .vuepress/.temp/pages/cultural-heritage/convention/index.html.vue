@@ -1,5 +1,4 @@
-<template><div><h1 id="公約與法規" tabindex="-1"><a class="header-anchor" href="#公約與法規" aria-hidden="true">#</a> 公約與法規</h1>
-<h2 id="公約、倡議" tabindex="-1"><a class="header-anchor" href="#公約、倡議" aria-hidden="true">#</a> 公約、倡議</h2>
+<template><div><h2 id="公約、倡議" tabindex="-1"><a class="header-anchor" href="#公約、倡議" aria-hidden="true">#</a> 公約、倡議</h2>
 <blockquote>
 <p>資料依簽訂年份排序</p>
 </blockquote>

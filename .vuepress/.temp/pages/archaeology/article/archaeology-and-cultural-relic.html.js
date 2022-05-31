@@ -6,8 +6,7 @@ export const data = {
   "frontmatter": {
     "lang": "zh-TW",
     "title": "《考古與文物》",
-    "sidebar": "auto",
-    "summary": "《考古與文物》",
+    "summary": "",
     "head": [
       [
         "meta",
@@ -74,8 +73,8 @@ export const data = {
     ]
   },
   "readingTime": {
-    "minutes": 0.02,
-    "words": 5
+    "minutes": 0,
+    "words": 0
   },
   "filePathRelative": "archaeology/article/archaeology-and-cultural-relic.md"
 }
