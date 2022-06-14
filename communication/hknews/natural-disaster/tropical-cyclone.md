@@ -1,12 +1,10 @@
 ---
 lang: zh-TW
-title: 熱帶氣旋
+author: NG Kinchung
+date: 2022-01-26
 ---
 <!-- <a>![tropical cyclone](../.vuepress/public/fig/tropical-cyclone.webp "圖片改自《華僑日報》插圖，1962年9月1日，第2張第1頁。圖示「溫黛」移動方向。")</a> -->
-> 熱帶氣旋名稱摘自香港天文台：〈[熱帶氣旋警告信號](https://www.hko.gov.hk/tc/wxinfo/climat/warndb/warndb1.shtml?opt=1&sgnl=1.or.higher&start_ym=194601&end_ym=202201&submit=Submit+Query)〉及〈[1917-1941年香港熱帶氣旋警告信號歷史記錄](https://www.hko.gov.hk/tc/informtc/tcsignaldb/index.html)〉。
->
-> 關鍵詞：颱風、風球
-<!--內部使用。關鍵詞：颱風、風球-->
+# 熱帶氣旋
 ## 熱帶氣旋信號
 1. 〈[港外發現颶風　似有襲擊本港之勢　當局發表本港颶風信號](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%B1%E9%A2%A8&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5h7GIjzCf8zZ&_coverpage_WAR_mmisportalportlet_o=78&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.creator%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.contributor%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.subject%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+fulltext%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.description%3A%28%E9%A2%B1%E9%A2%A8%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年6月22日，第4頁。
 2. 〈[新聞處發表颶風信號解釋](https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E9%A2%B1%E9%A2%A8&p_r_p_-1078056564_c=QF757YsWv5%2BQBGt1%2BwUj5mi9wIgXPJu%2B&_coverpage_WAR_mmisportalportlet_o=82&_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.creator%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.contributor%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.subject%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+fulltext%3A%28%E9%A2%B1%E9%A2%A8%29%20OR+all_dc.description%3A%28%E9%A2%B1%E9%A2%A8%29%20%29%20%29&_coverpage_WAR_mmisportalportlet_sort_order=asc&_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort)〉，《工商日報》，1946年6月26日，第4頁。

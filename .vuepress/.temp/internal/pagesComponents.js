@@ -25,14 +25,6 @@ export const pagesComponents = {
   "v-4eaf9f84": defineAsyncComponent(() => import(/* webpackChunkName: "v-4eaf9f84" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/guide/page.html.vue")),
   // path: /guide/
   "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/guide/index.html.vue")),
-  // path: /posts/article10.html
-  "v-5a814a99": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a814a99" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article10.html.vue")),
-  // path: /posts/article11.html
-  "v-5c362338": defineAsyncComponent(() => import(/* webpackChunkName: "v-5c362338" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article11.html.vue")),
-  // path: /posts/article12.html
-  "v-5deafbd7": defineAsyncComponent(() => import(/* webpackChunkName: "v-5deafbd7" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article12.html.vue")),
-  // path: /posts/article9.html
-  "v-7beb5be1": defineAsyncComponent(() => import(/* webpackChunkName: "v-7beb5be1" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article9.html.vue")),
   // path: /archaeology/artefact/bronze.html
   "v-2d2dc288": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d2dc288" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/artefact/bronze.html.vue")),
   // path: /archaeology/artefact/
@@ -149,22 +141,6 @@ export const pagesComponents = {
   "v-74369574": defineAsyncComponent(() => import(/* webpackChunkName: "v-74369574" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/museology/museology-quarterly.html.vue")),
   // path: /cultural-heritage/museology/
   "v-3941087a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3941087a" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/museology/index.html.vue")),
-  // path: /posts/article/article1.html
-  "v-03842690": defineAsyncComponent(() => import(/* webpackChunkName: "v-03842690" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article1.html.vue")),
-  // path: /posts/article/article2.html
-  "v-0538ff2f": defineAsyncComponent(() => import(/* webpackChunkName: "v-0538ff2f" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article2.html.vue")),
-  // path: /posts/article/article3.html
-  "v-06edd7ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-06edd7ce" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article3.html.vue")),
-  // path: /posts/article/article4.html
-  "v-08a2b06d": defineAsyncComponent(() => import(/* webpackChunkName: "v-08a2b06d" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article4.html.vue")),
-  // path: /posts/article/article5.html
-  "v-0a57890c": defineAsyncComponent(() => import(/* webpackChunkName: "v-0a57890c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article5.html.vue")),
-  // path: /posts/article/article6.html
-  "v-0c0c61ab": defineAsyncComponent(() => import(/* webpackChunkName: "v-0c0c61ab" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article6.html.vue")),
-  // path: /posts/article/article7.html
-  "v-0dc13a4a": defineAsyncComponent(() => import(/* webpackChunkName: "v-0dc13a4a" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article7.html.vue")),
-  // path: /posts/article/article8.html
-  "v-0f7612e9": defineAsyncComponent(() => import(/* webpackChunkName: "v-0f7612e9" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article8.html.vue")),
   // path: /communication/hknews/accident/marine-accident.html
   "v-846a2290": defineAsyncComponent(() => import(/* webpackChunkName: "v-846a2290" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/accident/marine-accident.html.vue")),
   // path: /communication/hknews/accident/
@@ -349,20 +325,12 @@ export const pagesComponents = {
   "v-03d57386": defineAsyncComponent(() => import(/* webpackChunkName: "v-03d57386" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/category/使用指南/index.html.vue")),
   // path: /tag/%E7%A6%81%E7%94%A8/
   "v-83e1f92e": defineAsyncComponent(() => import(/* webpackChunkName: "v-83e1f92e" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/禁用/index.html.vue")),
-  // path: /category/categorya/
-  "v-3e5b7b84": defineAsyncComponent(() => import(/* webpackChunkName: "v-3e5b7b84" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/category/categorya/index.html.vue")),
   // path: /tag/%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86/
   "v-1e447d61": defineAsyncComponent(() => import(/* webpackChunkName: "v-1e447d61" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/文章加密/index.html.vue")),
-  // path: /category/categoryb/
-  "v-3e5b7ba3": defineAsyncComponent(() => import(/* webpackChunkName: "v-3e5b7ba3" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/category/categoryb/index.html.vue")),
   // path: /tag/markdown/
   "v-484552dc": defineAsyncComponent(() => import(/* webpackChunkName: "v-484552dc" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/markdown/index.html.vue")),
   // path: /tag/%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE/
   "v-a378ad66": defineAsyncComponent(() => import(/* webpackChunkName: "v-a378ad66" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/页面配置/index.html.vue")),
   // path: /tag/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
   "v-7b167472": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b167472" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/使用指南/index.html.vue")),
-  // path: /tag/tag-a/
-  "v-06bbb262": defineAsyncComponent(() => import(/* webpackChunkName: "v-06bbb262" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/tag-a/index.html.vue")),
-  // path: /tag/tag-b/
-  "v-06bbb224": defineAsyncComponent(() => import(/* webpackChunkName: "v-06bbb224" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/tag-b/index.html.vue")),
 }

@@ -1,7 +1,6 @@
 <template><div><!--中文書籍格式，作者：《書名》，城市：出版社，年份。-->
 <!--中文論文格式，作者：〈文章標題〉，《期刊名》年份期數，頁碼。-->
 <!--英文文獻統一使用APA格式。-->
-<h1 id="理論與方法" tabindex="-1"><a class="header-anchor" href="#理論與方法" aria-hidden="true">#</a> 理論與方法</h1>
 <blockquote>
 <ul>
 <li>按初版的發表年份排序。</li>

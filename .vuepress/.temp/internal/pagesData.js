@@ -23,14 +23,6 @@ export const pagesData = {
   "v-4eaf9f84": () => import(/* webpackChunkName: "v-4eaf9f84" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/guide/page.html.js").then(({ data }) => data),
   // path: /guide/
   "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
-  // path: /posts/article10.html
-  "v-5a814a99": () => import(/* webpackChunkName: "v-5a814a99" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article10.html.js").then(({ data }) => data),
-  // path: /posts/article11.html
-  "v-5c362338": () => import(/* webpackChunkName: "v-5c362338" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article11.html.js").then(({ data }) => data),
-  // path: /posts/article12.html
-  "v-5deafbd7": () => import(/* webpackChunkName: "v-5deafbd7" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article12.html.js").then(({ data }) => data),
-  // path: /posts/article9.html
-  "v-7beb5be1": () => import(/* webpackChunkName: "v-7beb5be1" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article9.html.js").then(({ data }) => data),
   // path: /archaeology/artefact/bronze.html
   "v-2d2dc288": () => import(/* webpackChunkName: "v-2d2dc288" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/artefact/bronze.html.js").then(({ data }) => data),
   // path: /archaeology/artefact/
@@ -147,22 +139,6 @@ export const pagesData = {
   "v-74369574": () => import(/* webpackChunkName: "v-74369574" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/museology/museology-quarterly.html.js").then(({ data }) => data),
   // path: /cultural-heritage/museology/
   "v-3941087a": () => import(/* webpackChunkName: "v-3941087a" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/museology/index.html.js").then(({ data }) => data),
-  // path: /posts/article/article1.html
-  "v-03842690": () => import(/* webpackChunkName: "v-03842690" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article1.html.js").then(({ data }) => data),
-  // path: /posts/article/article2.html
-  "v-0538ff2f": () => import(/* webpackChunkName: "v-0538ff2f" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article2.html.js").then(({ data }) => data),
-  // path: /posts/article/article3.html
-  "v-06edd7ce": () => import(/* webpackChunkName: "v-06edd7ce" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article3.html.js").then(({ data }) => data),
-  // path: /posts/article/article4.html
-  "v-08a2b06d": () => import(/* webpackChunkName: "v-08a2b06d" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article4.html.js").then(({ data }) => data),
-  // path: /posts/article/article5.html
-  "v-0a57890c": () => import(/* webpackChunkName: "v-0a57890c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article5.html.js").then(({ data }) => data),
-  // path: /posts/article/article6.html
-  "v-0c0c61ab": () => import(/* webpackChunkName: "v-0c0c61ab" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article6.html.js").then(({ data }) => data),
-  // path: /posts/article/article7.html
-  "v-0dc13a4a": () => import(/* webpackChunkName: "v-0dc13a4a" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article7.html.js").then(({ data }) => data),
-  // path: /posts/article/article8.html
-  "v-0f7612e9": () => import(/* webpackChunkName: "v-0f7612e9" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/posts/article/article8.html.js").then(({ data }) => data),
   // path: /communication/hknews/accident/marine-accident.html
   "v-846a2290": () => import(/* webpackChunkName: "v-846a2290" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/accident/marine-accident.html.js").then(({ data }) => data),
   // path: /communication/hknews/accident/
@@ -347,20 +323,12 @@ export const pagesData = {
   "v-03d57386": () => import(/* webpackChunkName: "v-03d57386" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/category/使用指南/index.html.js").then(({ data }) => data),
   // path: /tag/%E7%A6%81%E7%94%A8/
   "v-83e1f92e": () => import(/* webpackChunkName: "v-83e1f92e" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/禁用/index.html.js").then(({ data }) => data),
-  // path: /category/categorya/
-  "v-3e5b7b84": () => import(/* webpackChunkName: "v-3e5b7b84" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/category/categorya/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86/
   "v-1e447d61": () => import(/* webpackChunkName: "v-1e447d61" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/文章加密/index.html.js").then(({ data }) => data),
-  // path: /category/categoryb/
-  "v-3e5b7ba3": () => import(/* webpackChunkName: "v-3e5b7ba3" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/category/categoryb/index.html.js").then(({ data }) => data),
   // path: /tag/markdown/
   "v-484552dc": () => import(/* webpackChunkName: "v-484552dc" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/markdown/index.html.js").then(({ data }) => data),
   // path: /tag/%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE/
   "v-a378ad66": () => import(/* webpackChunkName: "v-a378ad66" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/页面配置/index.html.js").then(({ data }) => data),
   // path: /tag/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
   "v-7b167472": () => import(/* webpackChunkName: "v-7b167472" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/使用指南/index.html.js").then(({ data }) => data),
-  // path: /tag/tag-a/
-  "v-06bbb262": () => import(/* webpackChunkName: "v-06bbb262" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/tag-a/index.html.js").then(({ data }) => data),
-  // path: /tag/tag-b/
-  "v-06bbb224": () => import(/* webpackChunkName: "v-06bbb224" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/tag/tag-b/index.html.js").then(({ data }) => data),
 }

@@ -1,7 +1,7 @@
 ---
 lang: zh-TW
-title: 鼠疫
-sidebar: auto
+author: NG Kinchung
+date: 2022-01-26
 ---
 
 # 鼠疫

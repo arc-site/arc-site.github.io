@@ -1,5 +1,4 @@
-<template><div><h1 id="論文" tabindex="-1"><a class="header-anchor" href="#論文" aria-hidden="true">#</a> 論文</h1>
-<h2 id="考古學" tabindex="-1"><a class="header-anchor" href="#考古學" aria-hidden="true">#</a> 考古學</h2>
+<template><div><h2 id="考古學" tabindex="-1"><a class="header-anchor" href="#考古學" aria-hidden="true">#</a> 考古學</h2>
 <h3 id="《三代考古》" tabindex="-1"><a class="header-anchor" href="#《三代考古》" aria-hidden="true">#</a> 《三代考古》</h3>
 <h3 id="《三晉考古》" tabindex="-1"><a class="header-anchor" href="#《三晉考古》" aria-hidden="true">#</a> 《三晉考古》</h3>
 <h3 id="《大眾考古》" tabindex="-1"><a class="header-anchor" href="#《大眾考古》" aria-hidden="true">#</a> 《大眾考古》</h3>

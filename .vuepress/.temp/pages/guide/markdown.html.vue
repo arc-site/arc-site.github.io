@@ -39,10 +39,10 @@ module<span class="token punctuation">.</span>exports <span class="token operato
 <div class="custom-container danger"><p class="custom-container-title">自定义标题</p>
 <p>危险容器</p>
 </div>
-<details class="custom-block details"><summary>自定义标题</summary>
+<details class="custom-container details"><summary>自定义标题</summary>
 <p>详情容器</p>
 </details>
-<details class="custom-block details"><summary>代码</summary>
+<details class="custom-container details"><summary>代码</summary>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>::: v-pre
 
 安全的在 Markdown 中使用 {{ variable }}。
@@ -99,9 +99,9 @@ module<span class="token punctuation">.</span>exports <span class="token operato
 <li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/code-tabs.html" target="_blank" rel="noopener noreferrer">查看详情<ExternalLinkIcon/></a></li>
 </ul>
 <h3 id="自定义对齐" tabindex="-1"><a class="header-anchor" href="#自定义对齐" aria-hidden="true">#</a> 自定义对齐</h3>
-<div class="align-center"><p>我是居中的</p>
+<div style="text-align: center"><p>我是居中的</p>
 </div>
-<div class="align-right"><p>我在右对齐</p>
+<div style="text-align: right"><p>我在右对齐</p>
 </div>
 <ul>
 <li><a href="https://vuepress-theme-hope.github.io/v2/zh/guide/markdown/align.html" target="_blank" rel="noopener noreferrer">查看详情<ExternalLinkIcon/></a></li>

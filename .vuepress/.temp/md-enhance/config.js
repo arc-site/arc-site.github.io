@@ -6,7 +6,6 @@ import CodeTabs from "D:/ngkinchung/Github/archaeologies.github.io/node_modules/
 import FlowChart from "D:/ngkinchung/Github/archaeologies.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/components/FlowChart";
 import Mermaid from "D:/ngkinchung/Github/archaeologies.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/components/Mermaid";
 import Presentation from "D:/ngkinchung/Github/archaeologies.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation";
-import "D:/ngkinchung/Github/archaeologies.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/styles/align.scss";
 import "D:/ngkinchung/Github/archaeologies.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
 import "D:/ngkinchung/Github/archaeologies.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
 import "D:/ngkinchung/Github/archaeologies.github.io/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-mark.scss";

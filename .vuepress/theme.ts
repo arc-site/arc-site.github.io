@@ -17,9 +17,11 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "citenote/citenote.github.io",
 
-  docsDir: "demo/src",
+  editLink: false,
+
+  displayFooter: true,
 
   // navbar
   navbar: navbar,
@@ -28,8 +30,6 @@ export default hopeTheme({
   sidebar: sidebar,
 
   footer: "",
-
-  displayFooter: true,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 

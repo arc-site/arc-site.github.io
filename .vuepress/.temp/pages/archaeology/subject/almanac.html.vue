@@ -1,5 +1,4 @@
-<template><div><h1 id="發掘年表" tabindex="-1"><a class="header-anchor" href="#發掘年表" aria-hidden="true">#</a> 發掘年表</h1>
-<ul>
+<template><div><ul>
 <li>1984年
 <ul>
 <li>安陽殷墟西區殷墓</li>

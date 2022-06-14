@@ -1,10 +1,8 @@
 ---
 lang: zh-TW
 title: 論文
-sidebar: auto
 ---
 
-# 論文
 ## 考古學
 ### 《三代考古》
 ### 《三晉考古》
