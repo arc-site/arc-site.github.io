@@ -25,10 +25,6 @@ export const pagesComponents = {
   "v-4eaf9f84": defineAsyncComponent(() => import(/* webpackChunkName: "v-4eaf9f84" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/guide/page.html.vue")),
   // path: /guide/
   "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/guide/index.html.vue")),
-  // path: /archaeology/artefact/bronze.html
-  "v-2d2dc288": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d2dc288" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/artefact/bronze.html.vue")),
-  // path: /archaeology/artefact/
-  "v-84309e3a": defineAsyncComponent(() => import(/* webpackChunkName: "v-84309e3a" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/artefact/index.html.vue")),
   // path: /archaeology/article/acta-archaeologica-sinica.html
   "v-b9483524": defineAsyncComponent(() => import(/* webpackChunkName: "v-b9483524" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/article/acta-archaeologica-sinica.html.vue")),
   // path: /archaeology/article/archaeological-collectanea.html
@@ -43,14 +39,18 @@ export const pagesComponents = {
   "v-e649222e": defineAsyncComponent(() => import(/* webpackChunkName: "v-e649222e" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/article/kaogu.html.vue")),
   // path: /archaeology/article/
   "v-ca06da12": defineAsyncComponent(() => import(/* webpackChunkName: "v-ca06da12" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/article/index.html.vue")),
-  // path: /archaeology/news/
-  "v-db284104": defineAsyncComponent(() => import(/* webpackChunkName: "v-db284104" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/news/index.html.vue")),
   // path: /archaeology/note/eight-steps-survey.html
   "v-0cb30d88": defineAsyncComponent(() => import(/* webpackChunkName: "v-0cb30d88" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/note/eight-steps-survey.html.vue")),
   // path: /archaeology/note/
   "v-db1f4382": defineAsyncComponent(() => import(/* webpackChunkName: "v-db1f4382" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/note/index.html.vue")),
   // path: /archaeology/note/steps-of-modelling.html
   "v-6f72b60b": defineAsyncComponent(() => import(/* webpackChunkName: "v-6f72b60b" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/note/steps-of-modelling.html.vue")),
+  // path: /archaeology/news/
+  "v-db284104": defineAsyncComponent(() => import(/* webpackChunkName: "v-db284104" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/news/index.html.vue")),
+  // path: /archaeology/artefact/bronze.html
+  "v-2d2dc288": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d2dc288" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/artefact/bronze.html.vue")),
+  // path: /archaeology/artefact/
+  "v-84309e3a": defineAsyncComponent(() => import(/* webpackChunkName: "v-84309e3a" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/artefact/index.html.vue")),
   // path: /archaeology/site-and-culture/daxi-culture.html
   "v-7f5547ea": defineAsyncComponent(() => import(/* webpackChunkName: "v-7f5547ea" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/site-and-culture/daxi-culture.html.vue")),
   // path: /archaeology/site-and-culture/erlitou-site.html
@@ -149,6 +149,10 @@ export const pagesComponents = {
   "v-551dd105": defineAsyncComponent(() => import(/* webpackChunkName: "v-551dd105" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/ad/index.html.vue")),
   // path: /communication/hknews/archaeology/
   "v-5784c5e8": defineAsyncComponent(() => import(/* webpackChunkName: "v-5784c5e8" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/archaeology/index.html.vue")),
+  // path: /communication/hknews/bank/
+  "v-f6095068": defineAsyncComponent(() => import(/* webpackChunkName: "v-f6095068" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/bank/index.html.vue")),
+  // path: /communication/hknews/bank/the-hongkong-and-shanghai-banking-corporation-limited.html
+  "v-6557b022": defineAsyncComponent(() => import(/* webpackChunkName: "v-6557b022" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/bank/the-hongkong-and-shanghai-banking-corporation-limited.html.vue")),
   // path: /communication/hknews/art/cantonese-opera.html
   "v-7f9e231c": defineAsyncComponent(() => import(/* webpackChunkName: "v-7f9e231c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/art/cantonese-opera.html.vue")),
   // path: /communication/hknews/art/musical-theatre.html
@@ -157,10 +161,6 @@ export const pagesComponents = {
   "v-4e9c8cb3": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e9c8cb3" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/art/index.html.vue")),
   // path: /communication/hknews/art/visual-art.html
   "v-cce3f1a0": defineAsyncComponent(() => import(/* webpackChunkName: "v-cce3f1a0" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/art/visual-art.html.vue")),
-  // path: /communication/hknews/bank/
-  "v-f6095068": defineAsyncComponent(() => import(/* webpackChunkName: "v-f6095068" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/bank/index.html.vue")),
-  // path: /communication/hknews/bank/the-hongkong-and-shanghai-banking-corporation-limited.html
-  "v-6557b022": defineAsyncComponent(() => import(/* webpackChunkName: "v-6557b022" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/bank/the-hongkong-and-shanghai-banking-corporation-limited.html.vue")),
   // path: /communication/hknews/charity/
   "v-018a949e": defineAsyncComponent(() => import(/* webpackChunkName: "v-018a949e" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/charity/index.html.vue")),
   // path: /communication/hknews/charity/relief.html
