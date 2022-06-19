@@ -1,74 +1,50 @@
 {
-  "hash": "4cb24f57",
-  "browserHash": "a8d77131",
+  "hash": "1ffe4d6c",
+  "browserHash": "e2e3121c",
   "optimized": {
     "@vue/devtools-api": {
       "src": "../../../node_modules/@vue/devtools-api/lib/esm/index.js",
       "file": "@vue_devtools-api.js",
-      "fileHash": "c91f2064",
+      "fileHash": "9a1b49c4",
       "needsInterop": false
     },
     "@vuepress/shared": {
       "src": "../../../node_modules/@vuepress/shared/dist/index.js",
       "file": "@vuepress_shared.js",
-      "fileHash": "c7550f38",
+      "fileHash": "66942a39",
       "needsInterop": false
     },
     "vue": {
       "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "bb7be888",
+      "fileHash": "5bbe93a5",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "file": "vue-router.js",
-      "fileHash": "cc543d26",
-      "needsInterop": false
-    },
-    "chart.js/auto": {
-      "src": "../../../node_modules/chart.js/auto/auto.esm.js",
-      "file": "chart_js_auto.js",
-      "fileHash": "a6b495c3",
-      "needsInterop": false
-    },
-    "echarts": {
-      "src": "../../../node_modules/echarts/index.js",
-      "file": "echarts.js",
-      "fileHash": "c0c8cde6",
-      "needsInterop": false
-    },
-    "flowchart.js": {
-      "src": "../../../node_modules/flowchart.js/index.js",
-      "file": "flowchart_js.js",
-      "fileHash": "2f849787",
-      "needsInterop": true
-    },
-    "mermaid": {
-      "src": "../../../node_modules/mermaid/dist/mermaid.esm.min.mjs",
-      "file": "mermaid.js",
-      "fileHash": "6202a524",
+      "fileHash": "a74075d7",
       "needsInterop": false
     },
     "@vueuse/core": {
       "src": "../../../node_modules/@vueuse/core/index.mjs",
       "file": "@vueuse_core.js",
-      "fileHash": "6ba56040",
+      "fileHash": "41311996",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-AIZEZB4N": {
-      "file": "chunk-AIZEZB4N.js"
+    "chunk-PESORQVG": {
+      "file": "chunk-PESORQVG.js"
     },
-    "chunk-OZZHQWPO": {
-      "file": "chunk-OZZHQWPO.js"
+    "chunk-TK47XENK": {
+      "file": "chunk-TK47XENK.js"
     },
-    "chunk-OJQZKQP4": {
-      "file": "chunk-OJQZKQP4.js"
+    "chunk-NUJ6ELGV": {
+      "file": "chunk-NUJ6ELGV.js"
     },
-    "chunk-75WZJXTL": {
-      "file": "chunk-75WZJXTL.js"
+    "chunk-PQECYZMI": {
+      "file": "chunk-PQECYZMI.js"
     }
   }
 }

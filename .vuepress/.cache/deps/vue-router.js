@@ -1,6 +1,6 @@
 import {
   setupDevtoolsPlugin
-} from "./chunk-AIZEZB4N.js";
+} from "./chunk-PESORQVG.js";
 import {
   computed,
   defineComponent,
@@ -18,44 +18,11 @@ import {
   unref,
   watch,
   watchEffect
-} from "./chunk-OZZHQWPO.js";
-import "./chunk-OJQZKQP4.js";
-import {
-  init_define_BACK_TO_TOP_LOCALES,
-  init_define_CODE_COPY_LOCALES,
-  init_define_CODE_COPY_OPIONS,
-  init_define_CODE_DEMO_OPTIONS,
-  init_define_EXTERNAL_LINK_ICON_LOCALES,
-  init_define_MERMAID_OPTIONS,
-  init_define_PHOTO_SWIPE_LOCALES,
-  init_define_PHOTO_SWIPE_OPTIONS,
-  init_define_READING_TIME_LOCALES,
-  init_define_REVEAL_CONFIG
-} from "./chunk-75WZJXTL.js";
-
-// dep:vue-router
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
+} from "./chunk-TK47XENK.js";
+import "./chunk-NUJ6ELGV.js";
+import "./chunk-PQECYZMI.js";
 
 // node_modules/vue-router/dist/vue-router.esm-bundler.js
-init_define_BACK_TO_TOP_LOCALES();
-init_define_CODE_COPY_LOCALES();
-init_define_CODE_COPY_OPIONS();
-init_define_CODE_DEMO_OPTIONS();
-init_define_MERMAID_OPTIONS();
-init_define_PHOTO_SWIPE_LOCALES();
-init_define_PHOTO_SWIPE_OPTIONS();
-init_define_READING_TIME_LOCALES();
-init_define_REVEAL_CONFIG();
-init_define_EXTERNAL_LINK_ICON_LOCALES();
 var hasSymbol = typeof Symbol === "function" && typeof Symbol.toStringTag === "symbol";
 var PolySymbol = (name) => hasSymbol ? Symbol(true ? "[vue-router]: " + name : name) : (true ? "[vue-router]: " : "_vr_") + name;
 var matchedRouteKey = PolySymbol(true ? "router view location matched" : "rvlm");

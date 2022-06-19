@@ -6,7 +6,7 @@ import NormalPage from "@theme-hope/components/NormalPage";
 import Navbar from "@theme-hope/module/navbar/components/Navbar";
 import Sidebar from "@theme-hope/module/sidebar/components/Sidebar";
 
-import { injectMobile, setupMobile, useScrollPromise } from "@theme-hope/composables";
+import { useScrollPromise } from "@theme-hope/composables";
 import { injectDarkMode, setupDarkMode } from "@theme-hope/module/outlook/composables";
 import { setupSidebarItems } from "@theme-hope/module/sidebar/composables";
 
@@ -35,7 +35,6 @@ export default defineClientConfig({
 
     // inject global properties
     injectDarkMode(app);
-    injectMobile(app);
 
     // register to inject styles
     app.component("CommonWrapper", CommonWrapper);
@@ -55,7 +54,6 @@ export default defineClientConfig({
   },
   setup: () => {
     setupDarkMode();
-    setupMobile();
     setupSidebarItems();
     setupBlog();
     

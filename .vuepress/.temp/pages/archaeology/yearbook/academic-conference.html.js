@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-a224fafc\",\"path\":\"/archaeology/yearbook/academic-conference.html\",\"title\":\"學術會議\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"學術會議\",\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://citenote.github.io/archaeology/yearbook/academic-conference.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"研究資料類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"學術會議\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-05-31T07:55:04.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-05-31T07:55:04.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1653810644000,\"updatedTime\":1653983704000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":2}]},\"readingTime\":{\"minutes\":0,\"words\":0},\"filePathRelative\":\"archaeology/yearbook/academic-conference.md\",\"localizedDate\":\"2022年5月29日\"}")
+export const data = JSON.parse("{\"key\":\"v-a224fafc\",\"path\":\"/archaeology/yearbook/academic-conference.html\",\"title\":\"學術會議\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"學術會議\",\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://citenote.github.io/archaeology/yearbook/academic-conference.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"研究資料類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"學術會議\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0,\"words\":0},\"filePathRelative\":\"archaeology/yearbook/academic-conference.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

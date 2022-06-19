@@ -52,7 +52,13 @@ export default hopeTheme({
     },
 
     mdEnhance: {
-      enableAll: true,
+//    enableAll: true,
+      footnote: true,
+      lazyLoad: true,
+      sup: true,
+      sub: true,
+      mark: true,
+      container: true,
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
