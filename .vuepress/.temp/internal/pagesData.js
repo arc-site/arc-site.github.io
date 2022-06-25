@@ -9,10 +9,10 @@ export const pagesData = {
   "v-0ed39efe": () => import(/* webpackChunkName: "v-0ed39efe" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/index.html.js").then(({ data }) => data),
   // path: /archive/
   "v-705c21a6": () => import(/* webpackChunkName: "v-705c21a6" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archive/index.html.js").then(({ data }) => data),
-  // path: /communication/
-  "v-80d6135c": () => import(/* webpackChunkName: "v-80d6135c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/index.html.js").then(({ data }) => data),
   // path: /cultural-heritage/
   "v-05c0f684": () => import(/* webpackChunkName: "v-05c0f684" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/index.html.js").then(({ data }) => data),
+  // path: /communication/
+  "v-80d6135c": () => import(/* webpackChunkName: "v-80d6135c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/index.html.js").then(({ data }) => data),
   // path: /guide/disable.html
   "v-4c863446": () => import(/* webpackChunkName: "v-4c863446" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/guide/disable.html.js").then(({ data }) => data),
   // path: /guide/encrypt.html
@@ -139,6 +139,16 @@ export const pagesData = {
   "v-74369574": () => import(/* webpackChunkName: "v-74369574" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/museology/museology-quarterly.html.js").then(({ data }) => data),
   // path: /cultural-heritage/museology/
   "v-3941087a": () => import(/* webpackChunkName: "v-3941087a" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/museology/index.html.js").then(({ data }) => data),
+  // path: /cultural-heritage/ordinance-and-regulation/cn/
+  "v-26417a6b": () => import(/* webpackChunkName: "v-26417a6b" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/cn/index.html.js").then(({ data }) => data),
+  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-208-country-parks-ordinance.html
+  "v-50b07398": () => import(/* webpackChunkName: "v-50b07398" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-208-country-parks-ordinance.html.js").then(({ data }) => data),
+  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-499-environmental-impact-assessment-ordinance.html
+  "v-744a205c": () => import(/* webpackChunkName: "v-744a205c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-499-environmental-impact-assessment-ordinance.html.js").then(({ data }) => data),
+  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-53-antiquities-and-monuments-ordinance.html
+  "v-a64cbca2": () => import(/* webpackChunkName: "v-a64cbca2" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-53-antiquities-and-monuments-ordinance.html.js").then(({ data }) => data),
+  // path: /cultural-heritage/ordinance-and-regulation/msar/
+  "v-c746f382": () => import(/* webpackChunkName: "v-c746f382" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/msar/index.html.js").then(({ data }) => data),
   // path: /communication/hknews/accident/marine-accident.html
   "v-846a2290": () => import(/* webpackChunkName: "v-846a2290" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/accident/marine-accident.html.js").then(({ data }) => data),
   // path: /communication/hknews/accident/
@@ -255,8 +265,6 @@ export const pagesData = {
   "v-bc5f6b74": () => import(/* webpackChunkName: "v-bc5f6b74" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/natural-disaster/heat-wave.html.js").then(({ data }) => data),
   // path: /communication/hknews/natural-disaster/landside.html
   "v-2de74b94": () => import(/* webpackChunkName: "v-2de74b94" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/natural-disaster/landside.html.js").then(({ data }) => data),
-  // path: /communication/hknews/natural-disaster/
-  "v-3f71bda3": () => import(/* webpackChunkName: "v-3f71bda3" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/natural-disaster/index.html.js").then(({ data }) => data),
   // path: /communication/hknews/natural-disaster/tropical-cyclone.html
   "v-52b533d8": () => import(/* webpackChunkName: "v-52b533d8" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/natural-disaster/tropical-cyclone.html.js").then(({ data }) => data),
   // path: /communication/hknews/outside-hong-kong/
@@ -293,16 +301,6 @@ export const pagesData = {
   "v-01356e6c": () => import(/* webpackChunkName: "v-01356e6c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/sport/football.html.js").then(({ data }) => data),
   // path: /communication/hknews/sport/
   "v-3845fc02": () => import(/* webpackChunkName: "v-3845fc02" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/sport/index.html.js").then(({ data }) => data),
-  // path: /cultural-heritage/ordinance-and-regulation/cn/
-  "v-26417a6b": () => import(/* webpackChunkName: "v-26417a6b" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/cn/index.html.js").then(({ data }) => data),
-  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-208-country-parks-ordinance.html
-  "v-50b07398": () => import(/* webpackChunkName: "v-50b07398" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-208-country-parks-ordinance.html.js").then(({ data }) => data),
-  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-499-environmental-impact-assessment-ordinance.html
-  "v-744a205c": () => import(/* webpackChunkName: "v-744a205c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-499-environmental-impact-assessment-ordinance.html.js").then(({ data }) => data),
-  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-53-antiquities-and-monuments-ordinance.html
-  "v-a64cbca2": () => import(/* webpackChunkName: "v-a64cbca2" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-53-antiquities-and-monuments-ordinance.html.js").then(({ data }) => data),
-  // path: /cultural-heritage/ordinance-and-regulation/msar/
-  "v-c746f382": () => import(/* webpackChunkName: "v-c746f382" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/msar/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /category/
