@@ -11,10 +11,10 @@ export const pagesComponents = {
   "v-0ed39efe": defineAsyncComponent(() => import(/* webpackChunkName: "v-0ed39efe" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/index.html.vue")),
   // path: /archive/
   "v-705c21a6": defineAsyncComponent(() => import(/* webpackChunkName: "v-705c21a6" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archive/index.html.vue")),
-  // path: /cultural-heritage/
-  "v-05c0f684": defineAsyncComponent(() => import(/* webpackChunkName: "v-05c0f684" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/index.html.vue")),
   // path: /communication/
   "v-80d6135c": defineAsyncComponent(() => import(/* webpackChunkName: "v-80d6135c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/index.html.vue")),
+  // path: /cultural-heritage/
+  "v-05c0f684": defineAsyncComponent(() => import(/* webpackChunkName: "v-05c0f684" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/index.html.vue")),
   // path: /guide/disable.html
   "v-4c863446": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c863446" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/guide/disable.html.vue")),
   // path: /guide/encrypt.html
@@ -141,16 +141,6 @@ export const pagesComponents = {
   "v-74369574": defineAsyncComponent(() => import(/* webpackChunkName: "v-74369574" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/museology/museology-quarterly.html.vue")),
   // path: /cultural-heritage/museology/
   "v-3941087a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3941087a" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/museology/index.html.vue")),
-  // path: /cultural-heritage/ordinance-and-regulation/cn/
-  "v-26417a6b": defineAsyncComponent(() => import(/* webpackChunkName: "v-26417a6b" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/cn/index.html.vue")),
-  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-208-country-parks-ordinance.html
-  "v-50b07398": defineAsyncComponent(() => import(/* webpackChunkName: "v-50b07398" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-208-country-parks-ordinance.html.vue")),
-  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-499-environmental-impact-assessment-ordinance.html
-  "v-744a205c": defineAsyncComponent(() => import(/* webpackChunkName: "v-744a205c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-499-environmental-impact-assessment-ordinance.html.vue")),
-  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-53-antiquities-and-monuments-ordinance.html
-  "v-a64cbca2": defineAsyncComponent(() => import(/* webpackChunkName: "v-a64cbca2" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-53-antiquities-and-monuments-ordinance.html.vue")),
-  // path: /cultural-heritage/ordinance-and-regulation/msar/
-  "v-c746f382": defineAsyncComponent(() => import(/* webpackChunkName: "v-c746f382" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/msar/index.html.vue")),
   // path: /communication/hknews/accident/marine-accident.html
   "v-846a2290": defineAsyncComponent(() => import(/* webpackChunkName: "v-846a2290" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/accident/marine-accident.html.vue")),
   // path: /communication/hknews/accident/
@@ -303,6 +293,16 @@ export const pagesComponents = {
   "v-01356e6c": defineAsyncComponent(() => import(/* webpackChunkName: "v-01356e6c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/sport/football.html.vue")),
   // path: /communication/hknews/sport/
   "v-3845fc02": defineAsyncComponent(() => import(/* webpackChunkName: "v-3845fc02" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/communication/hknews/sport/index.html.vue")),
+  // path: /cultural-heritage/ordinance-and-regulation/cn/
+  "v-26417a6b": defineAsyncComponent(() => import(/* webpackChunkName: "v-26417a6b" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/cn/index.html.vue")),
+  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-208-country-parks-ordinance.html
+  "v-50b07398": defineAsyncComponent(() => import(/* webpackChunkName: "v-50b07398" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-208-country-parks-ordinance.html.vue")),
+  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-499-environmental-impact-assessment-ordinance.html
+  "v-744a205c": defineAsyncComponent(() => import(/* webpackChunkName: "v-744a205c" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-499-environmental-impact-assessment-ordinance.html.vue")),
+  // path: /cultural-heritage/ordinance-and-regulation/hksar/cap-53-antiquities-and-monuments-ordinance.html
+  "v-a64cbca2": defineAsyncComponent(() => import(/* webpackChunkName: "v-a64cbca2" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/hksar/cap-53-antiquities-and-monuments-ordinance.html.vue")),
+  // path: /cultural-heritage/ordinance-and-regulation/msar/
+  "v-c746f382": defineAsyncComponent(() => import(/* webpackChunkName: "v-c746f382" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/cultural-heritage/ordinance-and-regulation/msar/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/

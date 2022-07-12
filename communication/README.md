@@ -12,7 +12,7 @@ date: 2022-01-26
 >
 > 關鍵詞：颱風、風球
 <!--內部使用。關鍵詞：颱風、風球-->
-#### [雨災](hknews/natural-disaster/flooding.md)
+#### [澇災](hknews/natural-disaster/flooding.md)
 > 關鍵詞：水浸
 #### 旱災
 #### 熱浪

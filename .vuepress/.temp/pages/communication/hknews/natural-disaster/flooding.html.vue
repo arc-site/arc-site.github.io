@@ -1,4 +1,4 @@
-<template><div><h1 id="雨災" tabindex="-1"><a class="header-anchor" href="#雨災" aria-hidden="true">#</a> 雨災</h1>
+<template><div><h1 id="澇災" tabindex="-1"><a class="header-anchor" href="#澇災" aria-hidden="true">#</a> 澇災</h1>
 <ol>
 <li>〈<a href="https://mmis.hkpl.gov.hk/coverpage/-/coverpage/view?_coverpage_WAR_mmisportalportlet_hsf=%E6%B0%B4%E6%B5%B8&amp;p_r_p_-1078056564_c=QF757YsWv58JCjtBMMIqoolhaxxCe9Kb&amp;_coverpage_WAR_mmisportalportlet_o=45&amp;_coverpage_WAR_mmisportalportlet_actual_q=%28%20verbatim_dc.collection%3A%28%22Old%5C%20HK%5C%20Newspapers%22%29%20%29%20AND+%28%20%28%20allTermsMandatory%3A%28true%29%20OR+all_dc.title%3A%28%E6%B0%B4%E6%B5%B8%29%20OR+all_dc.creator%3A%28%E6%B0%B4%E6%B5%B8%29%20OR+all_dc.contributor%3A%28%E6%B0%B4%E6%B5%B8%29%20OR+all_dc.subject%3A%28%E6%B0%B4%E6%B5%B8%29%20OR+fulltext%3A%28%E6%B0%B4%E6%B5%B8%29%20OR+all_dc.description%3A%28%E6%B0%B4%E6%B5%B8%29%20%29%20%29&amp;_coverpage_WAR_mmisportalportlet_sort_order=asc&amp;_coverpage_WAR_mmisportalportlet_sort_field=dc.publicationdate_bsort" target="_blank" rel="noopener noreferrer">打破本年大雨記錄　一部街道受水浸交通路阻　利園嶺英幼稚園課室塌陷<ExternalLinkIcon/></a>〉，《華僑日報》，1947年7月2日，第1張第3頁。
 <ul>

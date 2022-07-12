@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,c as t}from"./app.13544574.js";const a={};function c(o,_){return r(),t("div")}var f=e(a,[["render",c],["__file","tramway.html.vue"]]);export{f as default};

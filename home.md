@@ -2,9 +2,9 @@
 home: true
 layout: Blog
 icon: home
-title: 研究資料類編
+title: 文獻類編
 heroImage: /logo.svg
-heroText: 研究資料類編
+heroText: 文獻類編
 heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语
 projects:

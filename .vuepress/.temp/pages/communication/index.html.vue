@@ -8,7 +8,7 @@
 <p>關鍵詞：颱風、風球</p>
 </blockquote>
 <!--內部使用。關鍵詞：颱風、風球-->
-<h4 id="雨災" tabindex="-1"><a class="header-anchor" href="#雨災" aria-hidden="true">#</a> <RouterLink to="/communication/hknews/natural-disaster/flooding.html">雨災</RouterLink></h4>
+<h4 id="澇災" tabindex="-1"><a class="header-anchor" href="#澇災" aria-hidden="true">#</a> <RouterLink to="/communication/hknews/natural-disaster/flooding.html">澇災</RouterLink></h4>
 <blockquote>
 <p>關鍵詞：水浸</p>
 </blockquote>

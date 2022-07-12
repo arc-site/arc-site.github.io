@@ -17,7 +17,7 @@ export const data = {
         "meta",
         {
           "property": "og:site_name",
-          "content": "研究資料類編"
+          "content": "文獻類編"
         }
       ],
       [

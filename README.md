@@ -1,9 +1,9 @@
 ---
 home: true
 icon: home
-title: 研究資料類編
+title: 文獻類編
 heroImage: /logo.svg
-heroText: 研究資料類編
+heroText: 文獻類編
 tagline: 　
 actions:
 features:
