@@ -8,6 +8,7 @@ import clientConfig6 from 'D:/ngkinchung/Github/archaeologies.github.io/node_mod
 import clientConfig7 from 'D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/md-enhance/config.js'
 import clientConfig8 from 'D:/ngkinchung/Github/archaeologies.github.io/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
 import clientConfig9 from 'D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/theme-hope/config.js'
+import clientConfig10 from 'D:/ngkinchung/Github/archaeologies.github.io/node_modules/@vuepress/plugin-google-analytics/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -20,4 +21,5 @@ export const clientConfigs = [
   clientConfig7,
   clientConfig8,
   clientConfig9,
+  clientConfig10,
 ]

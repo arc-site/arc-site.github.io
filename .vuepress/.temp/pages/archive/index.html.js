@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-705c21a6\",\"path\":\"/archive/\",\"title\":\"檔案\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"檔案\",\"summary\":\"--- lang: zh-TW title: 檔案 --- 憲報 香港政府憲報 香港特別行政區政府憲報\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://citenote.github.io/archive/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"文獻類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"檔案\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"憲報\",\"slug\":\"憲報\",\"children\":[{\"level\":3,\"title\":\"香港政府憲報\",\"slug\":\"香港政府憲報\",\"children\":[]},{\"level\":3,\"title\":\"香港特別行政區政府憲報\",\"slug\":\"香港特別行政區政府憲報\",\"children\":[]}]}],\"readingTime\":{\"minutes\":0.14,\"words\":42},\"filePathRelative\":\"archive/README.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-705c21a6\",\"path\":\"/archive/\",\"title\":\"檔案\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"檔案\",\"summary\":\"--- lang: zh-TW title: 檔案 --- 憲報 香港政府憲報 香港特別行政區政府憲報\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://citenote.github.io/archive/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"文獻類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"檔案\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-06-14T05:32:12.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-06-14T05:32:12.000Z\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"憲報\",\"slug\":\"憲報\",\"children\":[{\"level\":3,\"title\":\"香港政府憲報\",\"slug\":\"香港政府憲報\",\"children\":[]},{\"level\":3,\"title\":\"香港特別行政區政府憲報\",\"slug\":\"香港特別行政區政府憲報\",\"children\":[]}]}],\"git\":{\"createdTime\":1653983704000,\"updatedTime\":1655184732000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":2}]},\"readingTime\":{\"minutes\":0.14,\"words\":42},\"filePathRelative\":\"archive/README.md\",\"localizedDate\":\"2022年5月31日\"}")

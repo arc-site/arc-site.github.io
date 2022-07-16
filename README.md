@@ -28,4 +28,4 @@ features:
     link: /communication/
 
 copyright: false
-footer: NG, Kinchung @ Heritage Lab, SUSTech
+footer: NG, Kinchung @ Peking Univerity

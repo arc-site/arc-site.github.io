@@ -43,14 +43,14 @@ export const pagesComponents = {
   "v-e649222e": defineAsyncComponent(() => import(/* webpackChunkName: "v-e649222e" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/article/kaogu.html.vue")),
   // path: /archaeology/article/
   "v-ca06da12": defineAsyncComponent(() => import(/* webpackChunkName: "v-ca06da12" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/article/index.html.vue")),
-  // path: /archaeology/news/
-  "v-db284104": defineAsyncComponent(() => import(/* webpackChunkName: "v-db284104" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/news/index.html.vue")),
   // path: /archaeology/note/eight-steps-survey.html
   "v-0cb30d88": defineAsyncComponent(() => import(/* webpackChunkName: "v-0cb30d88" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/note/eight-steps-survey.html.vue")),
   // path: /archaeology/note/
   "v-db1f4382": defineAsyncComponent(() => import(/* webpackChunkName: "v-db1f4382" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/note/index.html.vue")),
   // path: /archaeology/note/steps-of-modelling.html
   "v-6f72b60b": defineAsyncComponent(() => import(/* webpackChunkName: "v-6f72b60b" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/note/steps-of-modelling.html.vue")),
+  // path: /archaeology/news/
+  "v-db284104": defineAsyncComponent(() => import(/* webpackChunkName: "v-db284104" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/news/index.html.vue")),
   // path: /archaeology/site-and-culture/daxi-culture.html
   "v-7f5547ea": defineAsyncComponent(() => import(/* webpackChunkName: "v-7f5547ea" */"D:/ngkinchung/Github/archaeologies.github.io/.vuepress/.temp/pages/archaeology/site-and-culture/daxi-culture.html.vue")),
   // path: /archaeology/site-and-culture/erlitou-site.html

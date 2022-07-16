@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-519e77b4\",\"path\":\"/archaeology/article/archaeology.html\",\"title\":\"Archaeology\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"Archaeology\",\"summary\":\"--- lang: zh-TW title: Archaeology --- 1948 (Vol. 1)\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://citenote.github.io/archaeology/article/archaeology.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"文獻類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Archaeology\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"1948 (Vol. 1)\",\"slug\":\"_1948-vol-1\",\"children\":[]}],\"readingTime\":{\"minutes\":0.03,\"words\":8},\"filePathRelative\":\"archaeology/article/archaeology.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-519e77b4\",\"path\":\"/archaeology/article/archaeology.html\",\"title\":\"Archaeology\",\"lang\":\"zh-TW\",\"frontmatter\":{\"lang\":\"zh-TW\",\"title\":\"Archaeology\",\"summary\":\"--- lang: zh-TW title: Archaeology --- 1948 (Vol. 1)\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://citenote.github.io/archaeology/article/archaeology.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"文獻類編\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Archaeology\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-05-31T07:55:04.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-TW\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-05-31T07:55:04.000Z\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"1948 (Vol. 1)\",\"slug\":\"_1948-vol-1\",\"children\":[]}],\"git\":{\"createdTime\":1653810644000,\"updatedTime\":1653983704000,\"contributors\":[{\"name\":\"NGKINCHUNG\",\"email\":\"archaeology.cn@outlook.com\",\"commits\":2}]},\"readingTime\":{\"minutes\":0.03,\"words\":8},\"filePathRelative\":\"archaeology/article/archaeology.md\",\"localizedDate\":\"2022年5月29日\"}")
